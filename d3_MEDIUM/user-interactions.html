@@ -148,7 +148,9 @@
     .attr('r', 10)
     .attr('fill', getNodeColor)
     .call(dragDrop)
-    .on('click', selectNode);
+    // shows connections based on click or hover
+    // .on('click', selectNode)
+    .on('mouseover', selectNode);
 
   var textElements = svg
     .append('g')
@@ -157,6 +159,7 @@
     .data(nodes)
     .enter()
     .append('text')
+    // remove text on nodes
     .text(function (node) {
       return node.label;
     })

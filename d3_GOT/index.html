@@ -381,6 +381,7 @@
             nodes: data[0],
             edges: data[1]
           };
+          console.log(graph_data);
           // Counts the number each nodes have with each other
           graph_data.nodes.forEach(function (d) {
             d.weight = graph_data.edges.reduce(function (total, link) {

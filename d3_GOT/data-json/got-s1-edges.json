@@ -1,0 +1,3296 @@
+[
+  {
+    "Source": "NED",
+    "Target": "ROBERT",
+    "Weight": 192,
+    "Season": 1
+  },
+  {
+    "Source": "DAENERYS",
+    "Target": "JORAH",
+    "Weight": 154,
+    "Season": 1
+  },
+  {
+    "Source": "JON",
+    "Target": "SAM",
+    "Weight": 121,
+    "Season": 1
+  },
+  {
+    "Source": "LITTLEFINGER",
+    "Target": "NED",
+    "Weight": 107,
+    "Season": 1
+  },
+  {
+    "Source": "NED",
+    "Target": "VARYS",
+    "Weight": 96,
+    "Season": 1
+  },
+  {
+    "Source": "DAENERYS",
+    "Target": "DROGO",
+    "Weight": 91,
+    "Season": 1
+  },
+  {
+    "Source": "ARYA",
+    "Target": "NED",
+    "Weight": 90,
+    "Season": 1
+  },
+  {
+    "Source": "CATELYN",
+    "Target": "ROBB",
+    "Weight": 90,
+    "Season": 1
+  },
+  {
+    "Source": "BRONN",
+    "Target": "TYRION",
+    "Weight": 86,
+    "Season": 1
+  },
+  {
+    "Source": "CERSEI",
+    "Target": "NED",
+    "Weight": 86,
+    "Season": 1
+  },
+  {
+    "Source": "CERSEI",
+    "Target": "ROBERT",
+    "Weight": 80,
+    "Season": 1
+  },
+  {
+    "Source": "LITTLEFINGER",
+    "Target": "VARYS",
+    "Weight": 73,
+    "Season": 1
+  },
+  {
+    "Source": "SHAE",
+    "Target": "TYRION",
+    "Weight": 73,
+    "Season": 1
+  },
+  {
+    "Source": "CATELYN",
+    "Target": "NED",
+    "Weight": 69,
+    "Season": 1
+  },
+  {
+    "Source": "JOFFREY",
+    "Target": "SANSA",
+    "Weight": 69,
+    "Season": 1
+  },
+  {
+    "Source": "NED",
+    "Target": "PYCELLE",
+    "Weight": 68,
+    "Season": 1
+  },
+  {
+    "Source": "DAENERYS",
+    "Target": "VISERYS",
+    "Weight": 66,
+    "Season": 1
+  },
+  {
+    "Source": "SANSA",
+    "Target": "SEPTA_MORDANE",
+    "Weight": 64,
+    "Season": 1
+  },
+  {
+    "Source": "TYRION",
+    "Target": "TYWIN",
+    "Weight": 61,
+    "Season": 1
+  },
+  {
+    "Source": "JEOR",
+    "Target": "JON",
+    "Weight": 60,
+    "Season": 1
+  },
+  {
+    "Source": "ROBB",
+    "Target": "THEON",
+    "Weight": 60,
+    "Season": 1
+  },
+  {
+    "Source": "CERSEI",
+    "Target": "JOFFREY",
+    "Weight": 54,
+    "Season": 1
+  },
+  {
+    "Source": "ARYA",
+    "Target": "SANSA",
+    "Weight": 53,
+    "Season": 1
+  },
+  {
+    "Source": "BRAN",
+    "Target": "MAESTER_LUWIN",
+    "Weight": 53,
+    "Season": 1
+  },
+  {
+    "Source": "JAIME",
+    "Target": "NED",
+    "Weight": 53,
+    "Season": 1
+  },
+  {
+    "Source": "NED",
+    "Target": "SANSA",
+    "Weight": 49,
+    "Season": 1
+  },
+  {
+    "Source": "BRAN",
+    "Target": "ROBB",
+    "Weight": 48,
+    "Season": 1
+  },
+  {
+    "Source": "LORAS",
+    "Target": "RENLY",
+    "Weight": 47,
+    "Season": 1
+  },
+  {
+    "Source": "CERSEI",
+    "Target": "JAIME",
+    "Weight": 46,
+    "Season": 1
+  },
+  {
+    "Source": "DAENERYS",
+    "Target": "MIRRI_MAZ_DUUR",
+    "Weight": 45,
+    "Season": 1
+  },
+  {
+    "Source": "JON",
+    "Target": "TYRION",
+    "Weight": 45,
+    "Season": 1
+  },
+  {
+    "Source": "ARYA",
+    "Target": "SYRIO_FOREL",
+    "Weight": 44,
+    "Season": 1
+  },
+  {
+    "Source": "JORY_CASSEL",
+    "Target": "NED",
+    "Weight": 44,
+    "Season": 1
+  },
+  {
+    "Source": "JORAH",
+    "Target": "VISERYS",
+    "Weight": 43,
+    "Season": 1
+  },
+  {
+    "Source": "JON",
+    "Target": "PYP",
+    "Weight": 42,
+    "Season": 1
+  },
+  {
+    "Source": "CATELYN",
+    "Target": "TYRION",
+    "Weight": 41,
+    "Season": 1
+  },
+  {
+    "Source": "ROS",
+    "Target": "THEON",
+    "Weight": 40,
+    "Season": 1
+  },
+  {
+    "Source": "JOFFREY",
+    "Target": "NED",
+    "Weight": 39,
+    "Season": 1
+  },
+  {
+    "Source": "CERSEI",
+    "Target": "SANSA",
+    "Weight": 36,
+    "Season": 1
+  },
+  {
+    "Source": "GRENN",
+    "Target": "PYP",
+    "Weight": 36,
+    "Season": 1
+  },
+  {
+    "Source": "CATELYN",
+    "Target": "WALDER",
+    "Weight": 34,
+    "Season": 1
+  },
+  {
+    "Source": "DAENERYS",
+    "Target": "DOREAH",
+    "Weight": 34,
+    "Season": 1
+  },
+  {
+    "Source": "JAIME",
+    "Target": "TYRION",
+    "Weight": 34,
+    "Season": 1
+  },
+  {
+    "Source": "JAIME",
+    "Target": "TYWIN",
+    "Weight": 34,
+    "Season": 1
+  },
+  {
+    "Source": "BENJEN",
+    "Target": "JON",
+    "Weight": 33,
+    "Season": 1
+  },
+  {
+    "Source": "DAENERYS",
+    "Target": "IRRI",
+    "Weight": 32,
+    "Season": 1
+  },
+  {
+    "Source": "GREATJON_UMBER",
+    "Target": "ROBB",
+    "Weight": 31,
+    "Season": 1
+  },
+  {
+    "Source": "MORD",
+    "Target": "TYRION",
+    "Weight": 31,
+    "Season": 1
+  },
+  {
+    "Source": "CATELYN",
+    "Target": "LYSA",
+    "Weight": 30,
+    "Season": 1
+  },
+  {
+    "Source": "DOREAH",
+    "Target": "VISERYS",
+    "Weight": 30,
+    "Season": 1
+  },
+  {
+    "Source": "JORAH",
+    "Target": "RAKHARO",
+    "Weight": 30,
+    "Season": 1
+  },
+  {
+    "Source": "LYSA",
+    "Target": "ROBIN",
+    "Weight": 30,
+    "Season": 1
+  },
+  {
+    "Source": "LYSA",
+    "Target": "TYRION",
+    "Weight": 30,
+    "Season": 1
+  },
+  {
+    "Source": "NED",
+    "Target": "RENLY",
+    "Weight": 30,
+    "Season": 1
+  },
+  {
+    "Source": "PYP",
+    "Target": "SAM",
+    "Weight": 30,
+    "Season": 1
+  },
+  {
+    "Source": "RENLY",
+    "Target": "ROBERT",
+    "Weight": 30,
+    "Season": 1
+  },
+  {
+    "Source": "BRAN",
+    "Target": "NED",
+    "Weight": 29,
+    "Season": 1
+  },
+  {
+    "Source": "BRAN",
+    "Target": "OSHA",
+    "Weight": 29,
+    "Season": 1
+  },
+  {
+    "Source": "JON",
+    "Target": "NED",
+    "Weight": 29,
+    "Season": 1
+  },
+  {
+    "Source": "BRAN",
+    "Target": "CATELYN",
+    "Weight": 28,
+    "Season": 1
+  },
+  {
+    "Source": "CATELYN",
+    "Target": "JAIME",
+    "Weight": 28,
+    "Season": 1
+  },
+  {
+    "Source": "CATELYN",
+    "Target": "RODRIK",
+    "Weight": 28,
+    "Season": 1
+  },
+  {
+    "Source": "DAENERYS",
+    "Target": "QOTHO",
+    "Weight": 28,
+    "Season": 1
+  },
+  {
+    "Source": "JOFFREY",
+    "Target": "ROBERT",
+    "Weight": 28,
+    "Season": 1
+  },
+  {
+    "Source": "JON",
+    "Target": "MAESTER_AEMON",
+    "Weight": 28,
+    "Season": 1
+  },
+  {
+    "Source": "DROGO",
+    "Target": "VISERYS",
+    "Weight": 27,
+    "Season": 1
+  },
+  {
+    "Source": "JAIME",
+    "Target": "JORY_CASSEL",
+    "Weight": 27,
+    "Season": 1
+  },
+  {
+    "Source": "BRAN",
+    "Target": "THEON",
+    "Weight": 26,
+    "Season": 1
+  },
+  {
+    "Source": "CATELYN",
+    "Target": "LITTLEFINGER",
+    "Weight": 26,
+    "Season": 1
+  },
+  {
+    "Source": "CATELYN",
+    "Target": "MAESTER_LUWIN",
+    "Weight": 26,
+    "Season": 1
+  },
+  {
+    "Source": "BARRISTAN",
+    "Target": "NED",
+    "Weight": 25,
+    "Season": 1
+  },
+  {
+    "Source": "ILLYRIO",
+    "Target": "VISERYS",
+    "Weight": 25,
+    "Season": 1
+  },
+  {
+    "Source": "JON",
+    "Target": "ROBB",
+    "Weight": 25,
+    "Season": 1
+  },
+  {
+    "Source": "OSHA",
+    "Target": "THEON",
+    "Weight": 25,
+    "Season": 1
+  },
+  {
+    "Source": "ARYA",
+    "Target": "JOFFREY",
+    "Weight": 24,
+    "Season": 1
+  },
+  {
+    "Source": "GRENN",
+    "Target": "JON",
+    "Weight": 24,
+    "Season": 1
+  },
+  {
+    "Source": "NED",
+    "Target": "ROBB",
+    "Weight": 23,
+    "Season": 1
+  },
+  {
+    "Source": "BARRISTAN",
+    "Target": "ROBERT",
+    "Weight": 22,
+    "Season": 1
+  },
+  {
+    "Source": "CATELYN",
+    "Target": "CERSEI",
+    "Weight": 22,
+    "Season": 1
+  },
+  {
+    "Source": "LITTLEFINGER",
+    "Target": "SANSA",
+    "Weight": 22,
+    "Season": 1
+  },
+  {
+    "Source": "SHAGGA",
+    "Target": "TYRION",
+    "Weight": 22,
+    "Season": 1
+  },
+  {
+    "Source": "TYRION",
+    "Target": "YOREN",
+    "Weight": 22,
+    "Season": 1
+  },
+  {
+    "Source": "ALLISER_THORNE",
+    "Target": "JON",
+    "Weight": 20,
+    "Season": 1
+  },
+  {
+    "Source": "ARYA",
+    "Target": "JON",
+    "Weight": 20,
+    "Season": 1
+  },
+  {
+    "Source": "DROGO",
+    "Target": "JORAH",
+    "Weight": 20,
+    "Season": 1
+  },
+  {
+    "Source": "JAIME",
+    "Target": "ROBERT",
+    "Weight": 20,
+    "Season": 1
+  },
+  {
+    "Source": "BRAN",
+    "Target": "JON",
+    "Weight": 19,
+    "Season": 1
+  },
+  {
+    "Source": "DAENERYS",
+    "Target": "WINE_MERCHANT",
+    "Weight": 19,
+    "Season": 1
+  },
+  {
+    "Source": "HOUND",
+    "Target": "SANSA",
+    "Weight": 19,
+    "Season": 1
+  },
+  {
+    "Source": "LITTLEFINGER",
+    "Target": "PYCELLE",
+    "Weight": 19,
+    "Season": 1
+  },
+  {
+    "Source": "LITTLEFINGER",
+    "Target": "ROS",
+    "Weight": 19,
+    "Season": 1
+  },
+  {
+    "Source": "THEON",
+    "Target": "TYRION",
+    "Weight": 19,
+    "Season": 1
+  },
+  {
+    "Source": "ALLISER_THORNE",
+    "Target": "SAM",
+    "Weight": 18,
+    "Season": 1
+  },
+  {
+    "Source": "ARYA",
+    "Target": "YOREN",
+    "Weight": 18,
+    "Season": 1
+  },
+  {
+    "Source": "CERSEI",
+    "Target": "TYRION",
+    "Weight": 18,
+    "Season": 1
+  },
+  {
+    "Source": "BENJEN",
+    "Target": "TYRION",
+    "Weight": 17,
+    "Season": 1
+  },
+  {
+    "Source": "DAENERYS",
+    "Target": "RAKHARO",
+    "Weight": 17,
+    "Season": 1
+  },
+  {
+    "Source": "JEOR",
+    "Target": "SAM",
+    "Weight": 17,
+    "Season": 1
+  },
+  {
+    "Source": "LITTLEFINGER",
+    "Target": "RENLY",
+    "Weight": 17,
+    "Season": 1
+  },
+  {
+    "Source": "MAESTER_LUWIN",
+    "Target": "ROBB",
+    "Weight": 17,
+    "Season": 1
+  },
+  {
+    "Source": "ROBERT",
+    "Target": "SANSA",
+    "Weight": 17,
+    "Season": 1
+  },
+  {
+    "Source": "ROS",
+    "Target": "TYRION",
+    "Weight": 17,
+    "Season": 1
+  },
+  {
+    "Source": "CATELYN",
+    "Target": "THEON",
+    "Weight": 16,
+    "Season": 1
+  },
+  {
+    "Source": "GRENN",
+    "Target": "SAM",
+    "Weight": 16,
+    "Season": 1
+  },
+  {
+    "Source": "HOUND",
+    "Target": "JOFFREY",
+    "Weight": 16,
+    "Season": 1
+  },
+  {
+    "Source": "ROBB",
+    "Target": "TYRION",
+    "Weight": 16,
+    "Season": 1
+  },
+  {
+    "Source": "BRAN",
+    "Target": "TYRION",
+    "Weight": 15,
+    "Season": 1
+  },
+  {
+    "Source": "CATELYN",
+    "Target": "ROBERT",
+    "Weight": 15,
+    "Season": 1
+  },
+  {
+    "Source": "JEOR",
+    "Target": "TYRION",
+    "Weight": 15,
+    "Season": 1
+  },
+  {
+    "Source": "JOFFREY",
+    "Target": "TYRION",
+    "Weight": 15,
+    "Season": 1
+  },
+  {
+    "Source": "JOFFREY",
+    "Target": "VARYS",
+    "Weight": 15,
+    "Season": 1
+  },
+  {
+    "Source": "LANCEL",
+    "Target": "ROBERT",
+    "Weight": 15,
+    "Season": 1
+  },
+  {
+    "Source": "MIRRI_MAZ_DUUR",
+    "Target": "QOTHO",
+    "Weight": 15,
+    "Season": 1
+  },
+  {
+    "Source": "NED",
+    "Target": "YOREN",
+    "Weight": 15,
+    "Season": 1
+  },
+  {
+    "Source": "PYCELLE",
+    "Target": "VARYS",
+    "Weight": 15,
+    "Season": 1
+  },
+  {
+    "Source": "BENJEN",
+    "Target": "NED",
+    "Weight": 14,
+    "Season": 1
+  },
+  {
+    "Source": "BRAN",
+    "Target": "RICKON",
+    "Weight": 14,
+    "Season": 1
+  },
+  {
+    "Source": "CATELYN",
+    "Target": "JON",
+    "Weight": 14,
+    "Season": 1
+  },
+  {
+    "Source": "CATELYN",
+    "Target": "SANSA",
+    "Weight": 14,
+    "Season": 1
+  },
+  {
+    "Source": "JOFFREY",
+    "Target": "MARILLION",
+    "Weight": 14,
+    "Season": 1
+  },
+  {
+    "Source": "KEVAN",
+    "Target": "TYRION",
+    "Weight": 14,
+    "Season": 1
+  },
+  {
+    "Source": "LITTLEFINGER",
+    "Target": "ROBERT",
+    "Weight": 14,
+    "Season": 1
+  },
+  {
+    "Source": "BARRISTAN",
+    "Target": "CERSEI",
+    "Weight": 13,
+    "Season": 1
+  },
+  {
+    "Source": "CATELYN",
+    "Target": "VARDIS_EGEN",
+    "Weight": 13,
+    "Season": 1
+  },
+  {
+    "Source": "CERSEI",
+    "Target": "VARYS",
+    "Weight": 13,
+    "Season": 1
+  },
+  {
+    "Source": "DAENERYS",
+    "Target": "RHAEGO",
+    "Weight": 13,
+    "Season": 1
+  },
+  {
+    "Source": "JANOS",
+    "Target": "NED",
+    "Weight": 13,
+    "Season": 1
+  },
+  {
+    "Source": "JOFFREY",
+    "Target": "PYCELLE",
+    "Weight": 13,
+    "Season": 1
+  },
+  {
+    "Source": "MAESTER_LUWIN",
+    "Target": "THEON",
+    "Weight": 13,
+    "Season": 1
+  },
+  {
+    "Source": "NED",
+    "Target": "THEON",
+    "Weight": 13,
+    "Season": 1
+  },
+  {
+    "Source": "PYCELLE",
+    "Target": "SANSA",
+    "Weight": 13,
+    "Season": 1
+  },
+  {
+    "Source": "GENDRY",
+    "Target": "NED",
+    "Weight": 12,
+    "Season": 1
+  },
+  {
+    "Source": "HOT_PIE",
+    "Target": "LOMMY_GREENHANDS",
+    "Weight": 12,
+    "Season": 1
+  },
+  {
+    "Source": "JOFFREY",
+    "Target": "LITTLEFINGER",
+    "Weight": 12,
+    "Season": 1
+  },
+  {
+    "Source": "JOFFREY",
+    "Target": "MERYN_TRANT",
+    "Weight": 12,
+    "Season": 1
+  },
+  {
+    "Source": "JOFFREY",
+    "Target": "ROBB",
+    "Weight": 12,
+    "Season": 1
+  },
+  {
+    "Source": "JON_ARRYN",
+    "Target": "NED",
+    "Weight": 12,
+    "Season": 1
+  },
+  {
+    "Source": "KEVAN",
+    "Target": "TYWIN",
+    "Weight": 12,
+    "Season": 1
+  },
+  {
+    "Source": "MAESTER_LUWIN",
+    "Target": "OSHA",
+    "Weight": 12,
+    "Season": 1
+  },
+  {
+    "Source": "ARYA",
+    "Target": "SEPTA_MORDANE",
+    "Weight": 11,
+    "Season": 1
+  },
+  {
+    "Source": "BRAN",
+    "Target": "HODOR",
+    "Weight": 11,
+    "Season": 1
+  },
+  {
+    "Source": "BRONN",
+    "Target": "SHAE",
+    "Weight": 11,
+    "Season": 1
+  },
+  {
+    "Source": "CATELYN",
+    "Target": "GREATJON_UMBER",
+    "Weight": 11,
+    "Season": 1
+  },
+  {
+    "Source": "CATELYN",
+    "Target": "VARYS",
+    "Weight": 11,
+    "Season": 1
+  },
+  {
+    "Source": "GREATJON_UMBER",
+    "Target": "THEON",
+    "Weight": 11,
+    "Season": 1
+  },
+  {
+    "Source": "IRRI",
+    "Target": "RAKHARO",
+    "Weight": 11,
+    "Season": 1
+  },
+  {
+    "Source": "MERYN_TRANT",
+    "Target": "SYRIO_FOREL",
+    "Weight": 11,
+    "Season": 1
+  },
+  {
+    "Source": "NED",
+    "Target": "TYRION",
+    "Weight": 11,
+    "Season": 1
+  },
+  {
+    "Source": "NED",
+    "Target": "TYWIN",
+    "Weight": 11,
+    "Season": 1
+  },
+  {
+    "Source": "PYCELLE",
+    "Target": "ROBERT",
+    "Weight": 11,
+    "Season": 1
+  },
+  {
+    "Source": "RENLY",
+    "Target": "STANNIS",
+    "Weight": 11,
+    "Season": 1
+  },
+  {
+    "Source": "ROBB",
+    "Target": "RODRIK",
+    "Weight": 11,
+    "Season": 1
+  },
+  {
+    "Source": "ROBERT",
+    "Target": "VARYS",
+    "Weight": 11,
+    "Season": 1
+  },
+  {
+    "Source": "ALLISER_THORNE",
+    "Target": "PYP",
+    "Weight": 10,
+    "Season": 1
+  },
+  {
+    "Source": "ARYA",
+    "Target": "ROBERT",
+    "Weight": 10,
+    "Season": 1
+  },
+  {
+    "Source": "CATELYN",
+    "Target": "ROBIN",
+    "Weight": 10,
+    "Season": 1
+  },
+  {
+    "Source": "DAENERYS",
+    "Target": "ILLYRIO",
+    "Weight": 10,
+    "Season": 1
+  },
+  {
+    "Source": "DROGO",
+    "Target": "MAGO",
+    "Weight": 10,
+    "Season": 1
+  },
+  {
+    "Source": "HOUND",
+    "Target": "NED",
+    "Weight": 10,
+    "Season": 1
+  },
+  {
+    "Source": "HOUND",
+    "Target": "TYRION",
+    "Weight": 10,
+    "Season": 1
+  },
+  {
+    "Source": "JAIME",
+    "Target": "JON",
+    "Weight": 10,
+    "Season": 1
+  },
+  {
+    "Source": "JAIME",
+    "Target": "ROBB",
+    "Weight": 10,
+    "Season": 1
+  },
+  {
+    "Source": "JEOR",
+    "Target": "PYP",
+    "Weight": 10,
+    "Season": 1
+  },
+  {
+    "Source": "JOFFREY",
+    "Target": "MYCAH",
+    "Weight": 10,
+    "Season": 1
+  },
+  {
+    "Source": "JORAH",
+    "Target": "WINE_MERCHANT",
+    "Weight": 10,
+    "Season": 1
+  },
+  {
+    "Source": "MERYN_TRANT",
+    "Target": "SANSA",
+    "Weight": 10,
+    "Season": 1
+  },
+  {
+    "Source": "NED",
+    "Target": "RODRIK",
+    "Weight": 10,
+    "Season": 1
+  },
+  {
+    "Source": "NED",
+    "Target": "STANNIS",
+    "Weight": 10,
+    "Season": 1
+  },
+  {
+    "Source": "NED",
+    "Target": "TOBHO_MOTT",
+    "Weight": 10,
+    "Season": 1
+  },
+  {
+    "Source": "PYP",
+    "Target": "RAST",
+    "Weight": 10,
+    "Season": 1
+  },
+  {
+    "Source": "ALLISER_THORNE",
+    "Target": "JEOR",
+    "Weight": 9,
+    "Season": 1
+  },
+  {
+    "Source": "ARYA",
+    "Target": "CERSEI",
+    "Weight": 9,
+    "Season": 1
+  },
+  {
+    "Source": "BRAN",
+    "Target": "JAIME",
+    "Weight": 9,
+    "Season": 1
+  },
+  {
+    "Source": "BRAN",
+    "Target": "OLD_NAN",
+    "Weight": 9,
+    "Season": 1
+  },
+  {
+    "Source": "CERSEI",
+    "Target": "PYCELLE",
+    "Weight": 9,
+    "Season": 1
+  },
+  {
+    "Source": "DROGO",
+    "Target": "MIRRI_MAZ_DUUR",
+    "Weight": 9,
+    "Season": 1
+  },
+  {
+    "Source": "ILLYRIO",
+    "Target": "VARYS",
+    "Weight": 9,
+    "Season": 1
+  },
+  {
+    "Source": "IRRI",
+    "Target": "JORAH",
+    "Weight": 9,
+    "Season": 1
+  },
+  {
+    "Source": "JEOR",
+    "Target": "MAESTER_AEMON",
+    "Weight": 9,
+    "Season": 1
+  },
+  {
+    "Source": "MHAEGEN",
+    "Target": "NED",
+    "Weight": 9,
+    "Season": 1
+  },
+  {
+    "Source": "NED",
+    "Target": "SEPTA_MORDANE",
+    "Weight": 9,
+    "Season": 1
+  },
+  {
+    "Source": "PYCELLE",
+    "Target": "ROS",
+    "Weight": 9,
+    "Season": 1
+  },
+  {
+    "Source": "RENLY",
+    "Target": "VARYS",
+    "Weight": 9,
+    "Season": 1
+  },
+  {
+    "Source": "ROBB",
+    "Target": "SANSA",
+    "Weight": 9,
+    "Season": 1
+  },
+  {
+    "Source": "ROBIN",
+    "Target": "TYRION",
+    "Weight": 9,
+    "Season": 1
+  },
+  {
+    "Source": "RODRIK",
+    "Target": "TYRION",
+    "Weight": 9,
+    "Season": 1
+  },
+  {
+    "Source": "VARDIS_EGEN",
+    "Target": "TYRION",
+    "Weight": 9,
+    "Season": 1
+  },
+  {
+    "Source": "AERYS",
+    "Target": "NED",
+    "Weight": 8,
+    "Season": 1
+  },
+  {
+    "Source": "BAELOR",
+    "Target": "NED",
+    "Weight": 8,
+    "Season": 1
+  },
+  {
+    "Source": "CERSEI",
+    "Target": "LITTLEFINGER",
+    "Weight": 8,
+    "Season": 1
+  },
+  {
+    "Source": "CERSEI",
+    "Target": "ROBB",
+    "Weight": 8,
+    "Season": 1
+  },
+  {
+    "Source": "DAENERYS",
+    "Target": "MAGO",
+    "Weight": 8,
+    "Season": 1
+  },
+  {
+    "Source": "DAREON",
+    "Target": "PYP",
+    "Weight": 8,
+    "Season": 1
+  },
+  {
+    "Source": "HOUND",
+    "Target": "MERYN_TRANT",
+    "Weight": 8,
+    "Season": 1
+  },
+  {
+    "Source": "JORAH",
+    "Target": "MIRRI_MAZ_DUUR",
+    "Weight": 8,
+    "Season": 1
+  },
+  {
+    "Source": "OSHA",
+    "Target": "ROBB",
+    "Weight": 8,
+    "Season": 1
+  },
+  {
+    "Source": "PYCELLE",
+    "Target": "RENLY",
+    "Weight": 8,
+    "Season": 1
+  },
+  {
+    "Source": "ROBERT",
+    "Target": "TYWIN",
+    "Weight": 8,
+    "Season": 1
+  },
+  {
+    "Source": "RODRIK",
+    "Target": "THEON",
+    "Weight": 8,
+    "Season": 1
+  },
+  {
+    "Source": "SANSA",
+    "Target": "VARYS",
+    "Weight": 8,
+    "Season": 1
+  },
+  {
+    "Source": "AERYS",
+    "Target": "ROBERT",
+    "Weight": 7,
+    "Season": 1
+  },
+  {
+    "Source": "ALLISER_THORNE",
+    "Target": "GRENN",
+    "Weight": 7,
+    "Season": 1
+  },
+  {
+    "Source": "ARYA",
+    "Target": "CATELYN",
+    "Weight": 7,
+    "Season": 1
+  },
+  {
+    "Source": "ARYA",
+    "Target": "GENDRY",
+    "Weight": 7,
+    "Season": 1
+  },
+  {
+    "Source": "ARYA",
+    "Target": "HOUND",
+    "Weight": 7,
+    "Season": 1
+  },
+  {
+    "Source": "ARYA",
+    "Target": "JORY_CASSEL",
+    "Weight": 7,
+    "Season": 1
+  },
+  {
+    "Source": "ARYA",
+    "Target": "STABLE_BOY",
+    "Weight": 7,
+    "Season": 1
+  },
+  {
+    "Source": "ARYA",
+    "Target": "VARYS",
+    "Weight": 7,
+    "Season": 1
+  },
+  {
+    "Source": "BRAN",
+    "Target": "ROBERT",
+    "Weight": 7,
+    "Season": 1
+  },
+  {
+    "Source": "BRONN",
+    "Target": "CATELYN",
+    "Weight": 7,
+    "Season": 1
+  },
+  {
+    "Source": "GREATJON_UMBER",
+    "Target": "RODRIK",
+    "Weight": 7,
+    "Season": 1
+  },
+  {
+    "Source": "HUGH_OF_THE_VALE",
+    "Target": "JORY_CASSEL",
+    "Weight": 7,
+    "Season": 1
+  },
+  {
+    "Source": "JON",
+    "Target": "RAST",
+    "Weight": 7,
+    "Season": 1
+  },
+  {
+    "Source": "JON",
+    "Target": "THEON",
+    "Weight": 7,
+    "Season": 1
+  },
+  {
+    "Source": "JON_ARRYN",
+    "Target": "ROBERT",
+    "Weight": 7,
+    "Season": 1
+  },
+  {
+    "Source": "JORY_CASSEL",
+    "Target": "LITTLEFINGER",
+    "Weight": 7,
+    "Season": 1
+  },
+  {
+    "Source": "LYSA",
+    "Target": "VARDIS_EGEN",
+    "Weight": 7,
+    "Season": 1
+  },
+  {
+    "Source": "MAESTER_AEMON",
+    "Target": "TYRION",
+    "Weight": 7,
+    "Season": 1
+  },
+  {
+    "Source": "MAESTER_LUWIN",
+    "Target": "TYRION",
+    "Weight": 7,
+    "Season": 1
+  },
+  {
+    "Source": "ROBERT",
+    "Target": "TYRION",
+    "Weight": 7,
+    "Season": 1
+  },
+  {
+    "Source": "ROBERT",
+    "Target": "VISERYS",
+    "Weight": 7,
+    "Season": 1
+  },
+  {
+    "Source": "ARYA",
+    "Target": "ROBB",
+    "Weight": 6,
+    "Season": 1
+  },
+  {
+    "Source": "BARRISTAN",
+    "Target": "VARYS",
+    "Weight": 6,
+    "Season": 1
+  },
+  {
+    "Source": "BRONN",
+    "Target": "RODRIK",
+    "Weight": 6,
+    "Season": 1
+  },
+  {
+    "Source": "DROGO",
+    "Target": "ILLYRIO",
+    "Weight": 6,
+    "Season": 1
+  },
+  {
+    "Source": "DROGO",
+    "Target": "QOTHO",
+    "Weight": 6,
+    "Season": 1
+  },
+  {
+    "Source": "DROGO",
+    "Target": "RHAEGO",
+    "Weight": 6,
+    "Season": 1
+  },
+  {
+    "Source": "GRENN",
+    "Target": "RAST",
+    "Weight": 6,
+    "Season": 1
+  },
+  {
+    "Source": "GRENN",
+    "Target": "TYRION",
+    "Weight": 6,
+    "Season": 1
+  },
+  {
+    "Source": "HOUND",
+    "Target": "ROBERT",
+    "Weight": 6,
+    "Season": 1
+  },
+  {
+    "Source": "HUGH_OF_THE_VALE",
+    "Target": "NED",
+    "Weight": 6,
+    "Season": 1
+  },
+  {
+    "Source": "JAIME",
+    "Target": "JOFFREY",
+    "Weight": 6,
+    "Season": 1
+  },
+  {
+    "Source": "JEOR",
+    "Target": "OTHELL_YARWYCK",
+    "Weight": 6,
+    "Season": 1
+  },
+  {
+    "Source": "JEOR",
+    "Target": "OTHOR",
+    "Weight": 6,
+    "Season": 1
+  },
+  {
+    "Source": "LITTLEFINGER",
+    "Target": "MOUNTAIN",
+    "Weight": 6,
+    "Season": 1
+  },
+  {
+    "Source": "LITTLEFINGER",
+    "Target": "TYRION",
+    "Weight": 6,
+    "Season": 1
+  },
+  {
+    "Source": "MAESTER_AEMON",
+    "Target": "PYP",
+    "Weight": 6,
+    "Season": 1
+  },
+  {
+    "Source": "MAESTER_AEMON",
+    "Target": "SAM",
+    "Weight": 6,
+    "Season": 1
+  },
+  {
+    "Source": "NED",
+    "Target": "SYRIO_FOREL",
+    "Weight": 6,
+    "Season": 1
+  },
+  {
+    "Source": "NED",
+    "Target": "TOMARD",
+    "Weight": 6,
+    "Season": 1
+  },
+  {
+    "Source": "OTHELL_YARWYCK",
+    "Target": "SAM",
+    "Weight": 6,
+    "Season": 1
+  },
+  {
+    "Source": "PYP",
+    "Target": "TYRION",
+    "Weight": 6,
+    "Season": 1
+  },
+  {
+    "Source": "RAST",
+    "Target": "SAM",
+    "Weight": 6,
+    "Season": 1
+  },
+  {
+    "Source": "SHAGGA",
+    "Target": "TYWIN",
+    "Weight": 6,
+    "Season": 1
+  },
+  {
+    "Source": "ARYA",
+    "Target": "BAELOR",
+    "Weight": 5,
+    "Season": 1
+  },
+  {
+    "Source": "ARYA",
+    "Target": "BRAN",
+    "Weight": 5,
+    "Season": 1
+  },
+  {
+    "Source": "ARYA",
+    "Target": "HOT_PIE",
+    "Weight": 5,
+    "Season": 1
+  },
+  {
+    "Source": "ARYA",
+    "Target": "LITTLEFINGER",
+    "Weight": 5,
+    "Season": 1
+  },
+  {
+    "Source": "ARYA",
+    "Target": "MERYN_TRANT",
+    "Weight": 5,
+    "Season": 1
+  },
+  {
+    "Source": "ARYA",
+    "Target": "MYCAH",
+    "Weight": 5,
+    "Season": 1
+  },
+  {
+    "Source": "BARRISTAN",
+    "Target": "JOFFREY",
+    "Weight": 5,
+    "Season": 1
+  },
+  {
+    "Source": "BENJEN",
+    "Target": "ROBB",
+    "Weight": 5,
+    "Season": 1
+  },
+  {
+    "Source": "BENJEN",
+    "Target": "YOREN",
+    "Weight": 5,
+    "Season": 1
+  },
+  {
+    "Source": "BRAN",
+    "Target": "RODRIK",
+    "Weight": 5,
+    "Season": 1
+  },
+  {
+    "Source": "BRONN",
+    "Target": "LYSA",
+    "Weight": 5,
+    "Season": 1
+  },
+  {
+    "Source": "BRONN",
+    "Target": "SHAGGA",
+    "Weight": 5,
+    "Season": 1
+  },
+  {
+    "Source": "BRONN",
+    "Target": "TYWIN",
+    "Weight": 5,
+    "Season": 1
+  },
+  {
+    "Source": "CATELYN",
+    "Target": "MORD",
+    "Weight": 5,
+    "Season": 1
+  },
+  {
+    "Source": "DAENERYS",
+    "Target": "ROBERT",
+    "Weight": 5,
+    "Season": 1
+  },
+  {
+    "Source": "DOREAH",
+    "Target": "IRRI",
+    "Weight": 5,
+    "Season": 1
+  },
+  {
+    "Source": "DROGO",
+    "Target": "RAKHARO",
+    "Weight": 5,
+    "Season": 1
+  },
+  {
+    "Source": "GARED",
+    "Target": "ROYCE",
+    "Weight": 5,
+    "Season": 1
+  },
+  {
+    "Source": "GENDRY",
+    "Target": "TOBHO_MOTT",
+    "Weight": 5,
+    "Season": 1
+  },
+  {
+    "Source": "HOUND",
+    "Target": "LITTLEFINGER",
+    "Weight": 5,
+    "Season": 1
+  },
+  {
+    "Source": "HOUND",
+    "Target": "MOUNTAIN",
+    "Weight": 5,
+    "Season": 1
+  },
+  {
+    "Source": "JAIME",
+    "Target": "KEVAN",
+    "Weight": 5,
+    "Season": 1
+  },
+  {
+    "Source": "JAIME",
+    "Target": "LITTLEFINGER",
+    "Weight": 5,
+    "Season": 1
+  },
+  {
+    "Source": "JANOS",
+    "Target": "VARYS",
+    "Weight": 5,
+    "Season": 1
+  },
+  {
+    "Source": "JOFFREY",
+    "Target": "SEPTA_MORDANE",
+    "Weight": 5,
+    "Season": 1
+  },
+  {
+    "Source": "JON",
+    "Target": "OTHELL_YARWYCK",
+    "Weight": 5,
+    "Season": 1
+  },
+  {
+    "Source": "JON",
+    "Target": "OTHOR",
+    "Weight": 5,
+    "Season": 1
+  },
+  {
+    "Source": "JON_ARRYN",
+    "Target": "LITTLEFINGER",
+    "Weight": 5,
+    "Season": 1
+  },
+  {
+    "Source": "JON_ARRYN",
+    "Target": "LYSA",
+    "Weight": 5,
+    "Season": 1
+  },
+  {
+    "Source": "JONOS_BRACKEN",
+    "Target": "ROBB",
+    "Weight": 5,
+    "Season": 1
+  },
+  {
+    "Source": "JORAH",
+    "Target": "QOTHO",
+    "Weight": 5,
+    "Season": 1
+  },
+  {
+    "Source": "LYSA",
+    "Target": "MORD",
+    "Weight": 5,
+    "Season": 1
+  },
+  {
+    "Source": "MAESTER_LUWIN",
+    "Target": "NED",
+    "Weight": 5,
+    "Season": 1
+  },
+  {
+    "Source": "MARILLION",
+    "Target": "RODRIK",
+    "Weight": 5,
+    "Season": 1
+  },
+  {
+    "Source": "MARILLION",
+    "Target": "TYRION",
+    "Weight": 5,
+    "Season": 1
+  },
+  {
+    "Source": "MASHA_HEDDLE",
+    "Target": "TYRION",
+    "Weight": 5,
+    "Season": 1
+  },
+  {
+    "Source": "MOUNTAIN",
+    "Target": "NED",
+    "Weight": 5,
+    "Season": 1
+  },
+  {
+    "Source": "RENLY",
+    "Target": "SANSA",
+    "Weight": 5,
+    "Season": 1
+  },
+  {
+    "Source": "ROBB",
+    "Target": "ROBERT",
+    "Weight": 5,
+    "Season": 1
+  },
+  {
+    "Source": "ROBB",
+    "Target": "TYWIN",
+    "Weight": 5,
+    "Season": 1
+  },
+  {
+    "Source": "ROBB",
+    "Target": "WALDER",
+    "Weight": 5,
+    "Season": 1
+  },
+  {
+    "Source": "ROBERT",
+    "Target": "STANNIS",
+    "Weight": 5,
+    "Season": 1
+  },
+  {
+    "Source": "AERYS",
+    "Target": "RICKARD_STARK",
+    "Weight": 4,
+    "Season": 1
+  },
+  {
+    "Source": "ALLISER_THORNE",
+    "Target": "RAST",
+    "Weight": 4,
+    "Season": 1
+  },
+  {
+    "Source": "ARYA",
+    "Target": "ILYN_PAYNE",
+    "Weight": 4,
+    "Season": 1
+  },
+  {
+    "Source": "BAELOR",
+    "Target": "YOREN",
+    "Weight": 4,
+    "Season": 1
+  },
+  {
+    "Source": "BARRISTAN",
+    "Target": "JAIME",
+    "Weight": 4,
+    "Season": 1
+  },
+  {
+    "Source": "BARRISTAN",
+    "Target": "LITTLEFINGER",
+    "Weight": 4,
+    "Season": 1
+  },
+  {
+    "Source": "BARRISTAN",
+    "Target": "PYCELLE",
+    "Weight": 4,
+    "Season": 1
+  },
+  {
+    "Source": "BRAN",
+    "Target": "CERSEI",
+    "Weight": 4,
+    "Season": 1
+  },
+  {
+    "Source": "BRONN",
+    "Target": "VARDIS_EGEN",
+    "Weight": 4,
+    "Season": 1
+  },
+  {
+    "Source": "CATELYN",
+    "Target": "JON_ARRYN",
+    "Weight": 4,
+    "Season": 1
+  },
+  {
+    "Source": "CATELYN",
+    "Target": "MARILLION",
+    "Weight": 4,
+    "Season": 1
+  },
+  {
+    "Source": "CATELYN",
+    "Target": "TYWIN",
+    "Weight": 4,
+    "Season": 1
+  },
+  {
+    "Source": "CERSEI",
+    "Target": "HOUND",
+    "Weight": 4,
+    "Season": 1
+  },
+  {
+    "Source": "DAENERYS",
+    "Target": "VARYS",
+    "Weight": 4,
+    "Season": 1
+  },
+  {
+    "Source": "DAREON",
+    "Target": "JON",
+    "Weight": 4,
+    "Season": 1
+  },
+  {
+    "Source": "DAREON",
+    "Target": "SAM",
+    "Weight": 4,
+    "Season": 1
+  },
+  {
+    "Source": "GARED",
+    "Target": "WILL",
+    "Weight": 4,
+    "Season": 1
+  },
+  {
+    "Source": "GRENN",
+    "Target": "JEOR",
+    "Weight": 4,
+    "Season": 1
+  },
+  {
+    "Source": "HOUND",
+    "Target": "LORAS",
+    "Weight": 4,
+    "Season": 1
+  },
+  {
+    "Source": "HUGH_OF_THE_VALE",
+    "Target": "LITTLEFINGER",
+    "Weight": 4,
+    "Season": 1
+  },
+  {
+    "Source": "ILYN_PAYNE",
+    "Target": "JOFFREY",
+    "Weight": 4,
+    "Season": 1
+  },
+  {
+    "Source": "ILYN_PAYNE",
+    "Target": "NED",
+    "Weight": 4,
+    "Season": 1
+  },
+  {
+    "Source": "ILYN_PAYNE",
+    "Target": "SANSA",
+    "Weight": 4,
+    "Season": 1
+  },
+  {
+    "Source": "ILYN_PAYNE",
+    "Target": "YOREN",
+    "Weight": 4,
+    "Season": 1
+  },
+  {
+    "Source": "JAIME",
+    "Target": "ROS",
+    "Weight": 4,
+    "Season": 1
+  },
+  {
+    "Source": "JAIME",
+    "Target": "THEON",
+    "Weight": 4,
+    "Season": 1
+  },
+  {
+    "Source": "JORY_CASSEL",
+    "Target": "ROBERT",
+    "Weight": 4,
+    "Season": 1
+  },
+  {
+    "Source": "LANCEL",
+    "Target": "NED",
+    "Weight": 4,
+    "Season": 1
+  },
+  {
+    "Source": "LITTLEFINGER",
+    "Target": "SEPTA_MORDANE",
+    "Weight": 4,
+    "Season": 1
+  },
+  {
+    "Source": "LITTLEFINGER",
+    "Target": "TYWIN",
+    "Weight": 4,
+    "Season": 1
+  },
+  {
+    "Source": "LORAS",
+    "Target": "MOUNTAIN",
+    "Weight": 4,
+    "Season": 1
+  },
+  {
+    "Source": "LORAS",
+    "Target": "NED",
+    "Weight": 4,
+    "Season": 1
+  },
+  {
+    "Source": "LORAS",
+    "Target": "SANSA",
+    "Weight": 4,
+    "Season": 1
+  },
+  {
+    "Source": "LYANNA",
+    "Target": "NED",
+    "Weight": 4,
+    "Season": 1
+  },
+  {
+    "Source": "MIRRI_MAZ_DUUR",
+    "Target": "RAKHARO",
+    "Weight": 4,
+    "Season": 1
+  },
+  {
+    "Source": "MOUNTAIN",
+    "Target": "ROBERT",
+    "Weight": 4,
+    "Season": 1
+  },
+  {
+    "Source": "MOUNTAIN",
+    "Target": "SANSA",
+    "Weight": 4,
+    "Season": 1
+  },
+  {
+    "Source": "MYCAH",
+    "Target": "SANSA",
+    "Weight": 4,
+    "Season": 1
+  },
+  {
+    "Source": "NED",
+    "Target": "RICKARD_STARK",
+    "Weight": 4,
+    "Season": 1
+  },
+  {
+    "Source": "OLD_NAN",
+    "Target": "ROBB",
+    "Weight": 4,
+    "Season": 1
+  },
+  {
+    "Source": "ROYCE",
+    "Target": "WILL",
+    "Weight": 4,
+    "Season": 1
+  },
+  {
+    "Source": "RYGER_RIVERS",
+    "Target": "WALDER",
+    "Weight": 4,
+    "Season": 1
+  },
+  {
+    "Source": "SANSA",
+    "Target": "YOREN",
+    "Weight": 4,
+    "Season": 1
+  },
+  {
+    "Source": "SHAE",
+    "Target": "TYWIN",
+    "Weight": 4,
+    "Season": 1
+  },
+  {
+    "Source": "STEVRON_FREY",
+    "Target": "WALDER",
+    "Weight": 4,
+    "Season": 1
+  },
+  {
+    "Source": "WAYMAR_ROYCE",
+    "Target": "WILL",
+    "Weight": 4,
+    "Season": 1
+  },
+  {
+    "Source": "ADDAM_MARBRAND",
+    "Target": "KEVAN",
+    "Weight": 3,
+    "Season": 1
+  },
+  {
+    "Source": "ADDAM_MARBRAND",
+    "Target": "LEO_LEFFORD",
+    "Weight": 3,
+    "Season": 1
+  },
+  {
+    "Source": "AERYS",
+    "Target": "JAIME",
+    "Weight": 3,
+    "Season": 1
+  },
+  {
+    "Source": "AERYS",
+    "Target": "RHAEGAR",
+    "Weight": 3,
+    "Season": 1
+  },
+  {
+    "Source": "ALLISER_THORNE",
+    "Target": "OTHELL_YARWYCK",
+    "Weight": 3,
+    "Season": 1
+  },
+  {
+    "Source": "ARYA",
+    "Target": "JAIME",
+    "Weight": 3,
+    "Season": 1
+  },
+  {
+    "Source": "ARYA",
+    "Target": "PYCELLE",
+    "Weight": 3,
+    "Season": 1
+  },
+  {
+    "Source": "ASSASSIN",
+    "Target": "CATELYN",
+    "Weight": 3,
+    "Season": 1
+  },
+  {
+    "Source": "BAELOR",
+    "Target": "ILYN_PAYNE",
+    "Weight": 3,
+    "Season": 1
+  },
+  {
+    "Source": "BALON",
+    "Target": "THEON",
+    "Weight": 3,
+    "Season": 1
+  },
+  {
+    "Source": "BARRISTAN",
+    "Target": "LANCEL",
+    "Weight": 3,
+    "Season": 1
+  },
+  {
+    "Source": "BARRISTAN",
+    "Target": "RENLY",
+    "Weight": 3,
+    "Season": 1
+  },
+  {
+    "Source": "BERIC",
+    "Target": "NED",
+    "Weight": 3,
+    "Season": 1
+  },
+  {
+    "Source": "BRAN",
+    "Target": "WILL",
+    "Weight": 3,
+    "Season": 1
+  },
+  {
+    "Source": "BRANDON_STARK",
+    "Target": "NED",
+    "Weight": 3,
+    "Season": 1
+  },
+  {
+    "Source": "BRONN",
+    "Target": "MORD",
+    "Weight": 3,
+    "Season": 1
+  },
+  {
+    "Source": "BRONN",
+    "Target": "ROBIN",
+    "Weight": 3,
+    "Season": 1
+  },
+  {
+    "Source": "CATELYN",
+    "Target": "HOSTER",
+    "Weight": 3,
+    "Season": 1
+  },
+  {
+    "Source": "CATELYN",
+    "Target": "JOFFREY",
+    "Weight": 3,
+    "Season": 1
+  },
+  {
+    "Source": "CATELYN",
+    "Target": "MASHA_HEDDLE",
+    "Weight": 3,
+    "Season": 1
+  },
+  {
+    "Source": "CATELYN",
+    "Target": "YOREN",
+    "Weight": 3,
+    "Season": 1
+  },
+  {
+    "Source": "CERSEI",
+    "Target": "ILYN_PAYNE",
+    "Weight": 3,
+    "Season": 1
+  },
+  {
+    "Source": "CERSEI",
+    "Target": "JON",
+    "Weight": 3,
+    "Season": 1
+  },
+  {
+    "Source": "CERSEI",
+    "Target": "JON_ARRYN",
+    "Weight": 3,
+    "Season": 1
+  },
+  {
+    "Source": "CERSEI",
+    "Target": "LANCEL",
+    "Weight": 3,
+    "Season": 1
+  },
+  {
+    "Source": "CERSEI",
+    "Target": "RENLY",
+    "Weight": 3,
+    "Season": 1
+  },
+  {
+    "Source": "CERSEI",
+    "Target": "TYWIN",
+    "Weight": 3,
+    "Season": 1
+  },
+  {
+    "Source": "COHOLLO",
+    "Target": "DROGO",
+    "Weight": 3,
+    "Season": 1
+  },
+  {
+    "Source": "DAENERYS",
+    "Target": "NED",
+    "Weight": 3,
+    "Season": 1
+  },
+  {
+    "Source": "DOREAH",
+    "Target": "DROGO",
+    "Weight": 3,
+    "Season": 1
+  },
+  {
+    "Source": "DOREAH",
+    "Target": "WINE_MERCHANT",
+    "Weight": 3,
+    "Season": 1
+  },
+  {
+    "Source": "GENDRY",
+    "Target": "HOT_PIE",
+    "Weight": 3,
+    "Season": 1
+  },
+  {
+    "Source": "GREATJON_UMBER",
+    "Target": "JAIME",
+    "Weight": 3,
+    "Season": 1
+  },
+  {
+    "Source": "GREATJON_UMBER",
+    "Target": "TYWIN",
+    "Weight": 3,
+    "Season": 1
+  },
+  {
+    "Source": "HODOR",
+    "Target": "ROBB",
+    "Weight": 3,
+    "Season": 1
+  },
+  {
+    "Source": "HODOR",
+    "Target": "THEON",
+    "Weight": 3,
+    "Season": 1
+  },
+  {
+    "Source": "HODOR",
+    "Target": "TYRION",
+    "Weight": 3,
+    "Season": 1
+  },
+  {
+    "Source": "HOSTER",
+    "Target": "WALDER",
+    "Weight": 3,
+    "Season": 1
+  },
+  {
+    "Source": "HOUND",
+    "Target": "ILYN_PAYNE",
+    "Weight": 3,
+    "Season": 1
+  },
+  {
+    "Source": "IRRI",
+    "Target": "JHIQUI",
+    "Weight": 3,
+    "Season": 1
+  },
+  {
+    "Source": "IRRI",
+    "Target": "VISERYS",
+    "Weight": 3,
+    "Season": 1
+  },
+  {
+    "Source": "JANOS",
+    "Target": "RENLY",
+    "Weight": 3,
+    "Season": 1
+  },
+  {
+    "Source": "JEOR",
+    "Target": "NED",
+    "Weight": 3,
+    "Season": 1
+  },
+  {
+    "Source": "JEOR",
+    "Target": "ROBERT",
+    "Weight": 3,
+    "Season": 1
+  },
+  {
+    "Source": "JOFFREY",
+    "Target": "RENLY",
+    "Weight": 3,
+    "Season": 1
+  },
+  {
+    "Source": "JOFFREY",
+    "Target": "TYWIN",
+    "Weight": 3,
+    "Season": 1
+  },
+  {
+    "Source": "JOFFREY",
+    "Target": "YOREN",
+    "Weight": 3,
+    "Season": 1
+  },
+  {
+    "Source": "JON",
+    "Target": "ROBERT",
+    "Weight": 3,
+    "Season": 1
+  },
+  {
+    "Source": "JON",
+    "Target": "WILL",
+    "Weight": 3,
+    "Season": 1
+  },
+  {
+    "Source": "JON_ARRYN",
+    "Target": "PYCELLE",
+    "Weight": 3,
+    "Season": 1
+  },
+  {
+    "Source": "JON_ARRYN",
+    "Target": "ROBIN",
+    "Weight": 3,
+    "Season": 1
+  },
+  {
+    "Source": "JORAH",
+    "Target": "RHAEGO",
+    "Weight": 3,
+    "Season": 1
+  },
+  {
+    "Source": "LITTLEFINGER",
+    "Target": "STANNIS",
+    "Weight": 3,
+    "Season": 1
+  },
+  {
+    "Source": "LORAS",
+    "Target": "ROBERT",
+    "Weight": 3,
+    "Season": 1
+  },
+  {
+    "Source": "LYANNA",
+    "Target": "ROBERT",
+    "Weight": 3,
+    "Season": 1
+  },
+  {
+    "Source": "MERYN_TRANT",
+    "Target": "NED",
+    "Weight": 3,
+    "Season": 1
+  },
+  {
+    "Source": "MORD",
+    "Target": "ROBIN",
+    "Weight": 3,
+    "Season": 1
+  },
+  {
+    "Source": "MORD",
+    "Target": "VARDIS_EGEN",
+    "Weight": 3,
+    "Season": 1
+  },
+  {
+    "Source": "MYCAH",
+    "Target": "NED",
+    "Weight": 3,
+    "Season": 1
+  },
+  {
+    "Source": "MYRCELLA",
+    "Target": "TYRION",
+    "Weight": 3,
+    "Season": 1
+  },
+  {
+    "Source": "NED",
+    "Target": "PYP",
+    "Weight": 3,
+    "Season": 1
+  },
+  {
+    "Source": "NED",
+    "Target": "WILL",
+    "Weight": 3,
+    "Season": 1
+  },
+  {
+    "Source": "OSHA",
+    "Target": "RICKON",
+    "Weight": 3,
+    "Season": 1
+  },
+  {
+    "Source": "QOTHO",
+    "Target": "RAKHARO",
+    "Weight": 3,
+    "Season": 1
+  },
+  {
+    "Source": "RAKHARO",
+    "Target": "VISERYS",
+    "Weight": 3,
+    "Season": 1
+  },
+  {
+    "Source": "RAKHARO",
+    "Target": "WINE_MERCHANT",
+    "Weight": 3,
+    "Season": 1
+  },
+  {
+    "Source": "RAST",
+    "Target": "TYRION",
+    "Weight": 3,
+    "Season": 1
+  },
+  {
+    "Source": "RENLY",
+    "Target": "ROBB",
+    "Weight": 3,
+    "Season": 1
+  },
+  {
+    "Source": "RICKON",
+    "Target": "ROBB",
+    "Weight": 3,
+    "Season": 1
+  },
+  {
+    "Source": "ROBIN",
+    "Target": "VARDIS_EGEN",
+    "Weight": 3,
+    "Season": 1
+  },
+  {
+    "Source": "THEON",
+    "Target": "WALDER",
+    "Weight": 3,
+    "Season": 1
+  },
+  {
+    "Source": "VARYS",
+    "Target": "YOREN",
+    "Weight": 3,
+    "Season": 1
+  },
+  {
+    "Source": "ADDAM_MARBRAND",
+    "Target": "TYWIN",
+    "Weight": 2,
+    "Season": 1
+  },
+  {
+    "Source": "AEGON",
+    "Target": "AERYS",
+    "Weight": 2,
+    "Season": 1
+  },
+  {
+    "Source": "AEGON",
+    "Target": "MAESTER_AEMON",
+    "Weight": 2,
+    "Season": 1
+  },
+  {
+    "Source": "AERYS",
+    "Target": "BARRISTAN",
+    "Weight": 2,
+    "Season": 1
+  },
+  {
+    "Source": "AERYS",
+    "Target": "CATELYN",
+    "Weight": 2,
+    "Season": 1
+  },
+  {
+    "Source": "AERYS",
+    "Target": "JORAH",
+    "Weight": 2,
+    "Season": 1
+  },
+  {
+    "Source": "AERYS",
+    "Target": "MAESTER_AEMON",
+    "Weight": 2,
+    "Season": 1
+  },
+  {
+    "Source": "AERYS",
+    "Target": "RENLY",
+    "Weight": 2,
+    "Season": 1
+  },
+  {
+    "Source": "AERYS",
+    "Target": "SANSA",
+    "Weight": 2,
+    "Season": 1
+  },
+  {
+    "Source": "AERYS",
+    "Target": "SEPTA_MORDANE",
+    "Weight": 2,
+    "Season": 1
+  },
+  {
+    "Source": "ALLISER_THORNE",
+    "Target": "MAESTER_AEMON",
+    "Weight": 2,
+    "Season": 1
+  },
+  {
+    "Source": "ARYA",
+    "Target": "ILLYRIO",
+    "Weight": 2,
+    "Season": 1
+  },
+  {
+    "Source": "ARYA",
+    "Target": "LOMMY_GREENHANDS",
+    "Weight": 2,
+    "Season": 1
+  },
+  {
+    "Source": "ARYA",
+    "Target": "TYRION",
+    "Weight": 2,
+    "Season": 1
+  },
+  {
+    "Source": "ASSASSIN",
+    "Target": "BRAN",
+    "Weight": 2,
+    "Season": 1
+  },
+  {
+    "Source": "ASSASSIN",
+    "Target": "ROBB",
+    "Weight": 2,
+    "Season": 1
+  },
+  {
+    "Source": "BAELOR",
+    "Target": "CERSEI",
+    "Weight": 2,
+    "Season": 1
+  },
+  {
+    "Source": "BAELOR",
+    "Target": "HOUND",
+    "Weight": 2,
+    "Season": 1
+  },
+  {
+    "Source": "BAELOR",
+    "Target": "JOFFREY",
+    "Weight": 2,
+    "Season": 1
+  },
+  {
+    "Source": "BAELOR",
+    "Target": "PYCELLE",
+    "Weight": 2,
+    "Season": 1
+  },
+  {
+    "Source": "BAELOR",
+    "Target": "SANSA",
+    "Weight": 2,
+    "Season": 1
+  },
+  {
+    "Source": "BALON",
+    "Target": "TYRION",
+    "Weight": 2,
+    "Season": 1
+  },
+  {
+    "Source": "BENJEN",
+    "Target": "CATELYN",
+    "Weight": 2,
+    "Season": 1
+  },
+  {
+    "Source": "BENJEN",
+    "Target": "CERSEI",
+    "Weight": 2,
+    "Season": 1
+  },
+  {
+    "Source": "BENJEN",
+    "Target": "JEOR",
+    "Weight": 2,
+    "Season": 1
+  },
+  {
+    "Source": "BENJEN",
+    "Target": "ROBERT",
+    "Weight": 2,
+    "Season": 1
+  },
+  {
+    "Source": "BERIC",
+    "Target": "ROBERT",
+    "Weight": 2,
+    "Season": 1
+  },
+  {
+    "Source": "BORCAS",
+    "Target": "DAREON",
+    "Weight": 2,
+    "Season": 1
+  },
+  {
+    "Source": "BORCAS",
+    "Target": "PYP",
+    "Weight": 2,
+    "Season": 1
+  },
+  {
+    "Source": "BOWEN_MARSH",
+    "Target": "DAREON",
+    "Weight": 2,
+    "Season": 1
+  },
+  {
+    "Source": "BOWEN_MARSH",
+    "Target": "PYP",
+    "Weight": 2,
+    "Season": 1
+  },
+  {
+    "Source": "BRAN",
+    "Target": "BRANDON_STARK",
+    "Weight": 2,
+    "Season": 1
+  },
+  {
+    "Source": "BRAN",
+    "Target": "HOUND",
+    "Weight": 2,
+    "Season": 1
+  },
+  {
+    "Source": "BRANDON_STARK",
+    "Target": "CATELYN",
+    "Weight": 2,
+    "Season": 1
+  },
+  {
+    "Source": "BRANDON_STARK",
+    "Target": "JON",
+    "Weight": 2,
+    "Season": 1
+  },
+  {
+    "Source": "BRANDON_STARK",
+    "Target": "RICKARD_STARK",
+    "Weight": 2,
+    "Season": 1
+  },
+  {
+    "Source": "BRONN",
+    "Target": "KEVAN",
+    "Weight": 2,
+    "Season": 1
+  },
+  {
+    "Source": "BRONN",
+    "Target": "MARILLION",
+    "Weight": 2,
+    "Season": 1
+  },
+  {
+    "Source": "CATELYN",
+    "Target": "DAENERYS",
+    "Weight": 2,
+    "Season": 1
+  },
+  {
+    "Source": "CATELYN",
+    "Target": "HOUND",
+    "Weight": 2,
+    "Season": 1
+  },
+  {
+    "Source": "CATELYN",
+    "Target": "STEVRON_FREY",
+    "Weight": 2,
+    "Season": 1
+  },
+  {
+    "Source": "CERSEI",
+    "Target": "JEOR",
+    "Weight": 2,
+    "Season": 1
+  },
+  {
+    "Source": "CERSEI",
+    "Target": "LYANNA",
+    "Weight": 2,
+    "Season": 1
+  },
+  {
+    "Source": "CERSEI",
+    "Target": "MERYN_TRANT",
+    "Weight": 2,
+    "Season": 1
+  },
+  {
+    "Source": "CERSEI",
+    "Target": "ROS",
+    "Weight": 2,
+    "Season": 1
+  },
+  {
+    "Source": "CERSEI",
+    "Target": "STANNIS",
+    "Weight": 2,
+    "Season": 1
+  },
+  {
+    "Source": "CERSEI",
+    "Target": "YOREN",
+    "Weight": 2,
+    "Season": 1
+  },
+  {
+    "Source": "DAENERYS",
+    "Target": "JHIQUI",
+    "Weight": 2,
+    "Season": 1
+  },
+  {
+    "Source": "DAENERYS",
+    "Target": "SANSA",
+    "Weight": 2,
+    "Season": 1
+  },
+  {
+    "Source": "DAREON",
+    "Target": "GRENN",
+    "Weight": 2,
+    "Season": 1
+  },
+  {
+    "Source": "DAREON",
+    "Target": "JEOR",
+    "Weight": 2,
+    "Season": 1
+  },
+  {
+    "Source": "DAREON",
+    "Target": "LUKE",
+    "Weight": 2,
+    "Season": 1
+  },
+  {
+    "Source": "DAREON",
+    "Target": "MAESTER_AEMON",
+    "Weight": 2,
+    "Season": 1
+  },
+  {
+    "Source": "DAREON",
+    "Target": "RAST",
+    "Weight": 2,
+    "Season": 1
+  },
+  {
+    "Source": "DOREAH",
+    "Target": "IROGENIA",
+    "Weight": 2,
+    "Season": 1
+  },
+  {
+    "Source": "DOREAH",
+    "Target": "JHIQUI",
+    "Weight": 2,
+    "Season": 1
+  },
+  {
+    "Source": "DOREAH",
+    "Target": "JORAH",
+    "Weight": 2,
+    "Season": 1
+  },
+  {
+    "Source": "DROGO",
+    "Target": "IRRI",
+    "Weight": 2,
+    "Season": 1
+  },
+  {
+    "Source": "DROGO",
+    "Target": "ROBERT",
+    "Weight": 2,
+    "Season": 1
+  },
+  {
+    "Source": "GALBART_GLOVER",
+    "Target": "GREATJON_UMBER",
+    "Weight": 2,
+    "Season": 1
+  },
+  {
+    "Source": "GALBART_GLOVER",
+    "Target": "JONOS_BRACKEN",
+    "Weight": 2,
+    "Season": 1
+  },
+  {
+    "Source": "GALBART_GLOVER",
+    "Target": "ROBB",
+    "Weight": 2,
+    "Season": 1
+  },
+  {
+    "Source": "GENDRY",
+    "Target": "VARYS",
+    "Weight": 2,
+    "Season": 1
+  },
+  {
+    "Source": "GENDRY",
+    "Target": "YOREN",
+    "Weight": 2,
+    "Season": 1
+  },
+  {
+    "Source": "GREATJON_UMBER",
+    "Target": "NED",
+    "Weight": 2,
+    "Season": 1
+  },
+  {
+    "Source": "GREATJON_UMBER",
+    "Target": "RENLY",
+    "Weight": 2,
+    "Season": 1
+  },
+  {
+    "Source": "GREATJON_UMBER",
+    "Target": "RICKARD_KARSTARK",
+    "Weight": 2,
+    "Season": 1
+  },
+  {
+    "Source": "GREATJON_UMBER",
+    "Target": "STANNIS",
+    "Weight": 2,
+    "Season": 1
+  },
+  {
+    "Source": "GREATJON_UMBER",
+    "Target": "WALDER",
+    "Weight": 2,
+    "Season": 1
+  },
+  {
+    "Source": "HIGH_SEPTON",
+    "Target": "NED",
+    "Weight": 2,
+    "Season": 1
+  },
+  {
+    "Source": "HODOR",
+    "Target": "OSHA",
+    "Weight": 2,
+    "Season": 1
+  },
+  {
+    "Source": "HOUND",
+    "Target": "JAIME",
+    "Weight": 2,
+    "Season": 1
+  },
+  {
+    "Source": "HOUND",
+    "Target": "ROBB",
+    "Weight": 2,
+    "Season": 1
+  },
+  {
+    "Source": "HOUND",
+    "Target": "YOREN",
+    "Weight": 2,
+    "Season": 1
+  },
+  {
+    "Source": "HUGH_OF_THE_VALE",
+    "Target": "JON_ARRYN",
+    "Weight": 2,
+    "Season": 1
+  },
+  {
+    "Source": "HUGH_OF_THE_VALE",
+    "Target": "MOUNTAIN",
+    "Weight": 2,
+    "Season": 1
+  },
+  {
+    "Source": "HUGH_OF_THE_VALE",
+    "Target": "SANSA",
+    "Weight": 2,
+    "Season": 1
+  },
+  {
+    "Source": "ILLYRIO",
+    "Target": "JORAH",
+    "Weight": 2,
+    "Season": 1
+  },
+  {
+    "Source": "ILYN_PAYNE",
+    "Target": "MERYN_TRANT",
+    "Weight": 2,
+    "Season": 1
+  },
+  {
+    "Source": "ILYN_PAYNE",
+    "Target": "VARYS",
+    "Weight": 2,
+    "Season": 1
+  },
+  {
+    "Source": "JAIME",
+    "Target": "JON_ARRYN",
+    "Weight": 2,
+    "Season": 1
+  },
+  {
+    "Source": "JAIME",
+    "Target": "RICKARD_STARK",
+    "Weight": 2,
+    "Season": 1
+  },
+  {
+    "Source": "JAIME",
+    "Target": "SANSA",
+    "Weight": 2,
+    "Season": 1
+  },
+  {
+    "Source": "JAIME",
+    "Target": "TYSHA",
+    "Weight": 2,
+    "Season": 1
+  },
+  {
+    "Source": "JANOS",
+    "Target": "LITTLEFINGER",
+    "Weight": 2,
+    "Season": 1
+  },
+  {
+    "Source": "JANOS",
+    "Target": "PYCELLE",
+    "Weight": 2,
+    "Season": 1
+  },
+  {
+    "Source": "JAREMY_RYKKER",
+    "Target": "JEOR",
+    "Weight": 2,
+    "Season": 1
+  },
+  {
+    "Source": "JAREMY_RYKKER",
+    "Target": "OTHELL_YARWYCK",
+    "Weight": 2,
+    "Season": 1
+  },
+  {
+    "Source": "JAREMY_RYKKER",
+    "Target": "PYP",
+    "Weight": 2,
+    "Season": 1
+  },
+  {
+    "Source": "JEOR",
+    "Target": "JOFFREY",
+    "Weight": 2,
+    "Season": 1
+  },
+  {
+    "Source": "JOANNA",
+    "Target": "TYRION",
+    "Weight": 2,
+    "Season": 1
+  },
+  {
+    "Source": "JOFFREY",
+    "Target": "JON",
+    "Weight": 2,
+    "Season": 1
+  },
+  {
+    "Source": "JOFFREY",
+    "Target": "TOMMEN",
+    "Weight": 2,
+    "Season": 1
+  },
+  {
+    "Source": "JOFFREY",
+    "Target": "WILL",
+    "Weight": 2,
+    "Season": 1
+  },
+  {
+    "Source": "JON",
+    "Target": "RODRIK",
+    "Weight": 2,
+    "Season": 1
+  },
+  {
+    "Source": "JON",
+    "Target": "ROS",
+    "Weight": 2,
+    "Season": 1
+  },
+  {
+    "Source": "JON_ARRYN",
+    "Target": "VARYS",
+    "Weight": 2,
+    "Season": 1
+  },
+  {
+    "Source": "JORAH",
+    "Target": "LITTLE_BIRD",
+    "Weight": 2,
+    "Season": 1
+  },
+  {
+    "Source": "JORAH",
+    "Target": "NED",
+    "Weight": 2,
+    "Season": 1
+  },
+  {
+    "Source": "JORAH",
+    "Target": "VARYS",
+    "Weight": 2,
+    "Season": 1
+  },
+  {
+    "Source": "JORY_CASSEL",
+    "Target": "MHAEGEN",
+    "Weight": 2,
+    "Season": 1
+  },
+  {
+    "Source": "JORY_CASSEL",
+    "Target": "THEON",
+    "Weight": 2,
+    "Season": 1
+  },
+  {
+    "Source": "JOYEUSE",
+    "Target": "WALDER",
+    "Weight": 2,
+    "Season": 1
+  },
+  {
+    "Source": "KEVAN",
+    "Target": "LEO_LEFFORD",
+    "Weight": 2,
+    "Season": 1
+  },
+  {
+    "Source": "KEVAN",
+    "Target": "SHAGGA",
+    "Weight": 2,
+    "Season": 1
+  },
+  {
+    "Source": "LANCEL",
+    "Target": "RENLY",
+    "Weight": 2,
+    "Season": 1
+  },
+  {
+    "Source": "LEO_LEFFORD",
+    "Target": "TYRION",
+    "Weight": 2,
+    "Season": 1
+  },
+  {
+    "Source": "LITTLEFINGER",
+    "Target": "LORAS",
+    "Weight": 2,
+    "Season": 1
+  },
+  {
+    "Source": "LITTLEFINGER",
+    "Target": "MHAEGEN",
+    "Weight": 2,
+    "Season": 1
+  },
+  {
+    "Source": "LITTLEFINGER",
+    "Target": "YOREN",
+    "Weight": 2,
+    "Season": 1
+  },
+  {
+    "Source": "LORAS",
+    "Target": "MACE",
+    "Weight": 2,
+    "Season": 1
+  },
+  {
+    "Source": "LUKE",
+    "Target": "PYP",
+    "Weight": 2,
+    "Season": 1
+  },
+  {
+    "Source": "MAESTER_LUWIN",
+    "Target": "ROBERT",
+    "Weight": 2,
+    "Season": 1
+  },
+  {
+    "Source": "MAESTER_LUWIN",
+    "Target": "RODRIK",
+    "Weight": 2,
+    "Season": 1
+  },
+  {
+    "Source": "MAESTER_LUWIN",
+    "Target": "SANSA",
+    "Weight": 2,
+    "Season": 1
+  },
+  {
+    "Source": "MARILLION",
+    "Target": "MERYN_TRANT",
+    "Weight": 2,
+    "Season": 1
+  },
+  {
+    "Source": "MARILLION",
+    "Target": "YOREN",
+    "Weight": 2,
+    "Season": 1
+  },
+  {
+    "Source": "MELESSA",
+    "Target": "SAM",
+    "Weight": 2,
+    "Season": 1
+  },
+  {
+    "Source": "MORD",
+    "Target": "RODRIK",
+    "Weight": 2,
+    "Season": 1
+  },
+  {
+    "Source": "NED",
+    "Target": "ROOSE_BOLTON",
+    "Weight": 2,
+    "Season": 1
+  },
+  {
+    "Source": "NED",
+    "Target": "ROS",
+    "Weight": 2,
+    "Season": 1
+  },
+  {
+    "Source": "NED",
+    "Target": "STEFFON",
+    "Weight": 2,
+    "Season": 1
+  },
+  {
+    "Source": "NED",
+    "Target": "VARLY",
+    "Weight": 2,
+    "Season": 1
+  },
+  {
+    "Source": "OLD_NAN",
+    "Target": "THEON",
+    "Weight": 2,
+    "Season": 1
+  },
+  {
+    "Source": "OTHELL_YARWYCK",
+    "Target": "PYP",
+    "Weight": 2,
+    "Season": 1
+  },
+  {
+    "Source": "OTHOR",
+    "Target": "PYP",
+    "Weight": 2,
+    "Season": 1
+  },
+  {
+    "Source": "OTHOR",
+    "Target": "SAM",
+    "Weight": 2,
+    "Season": 1
+  },
+  {
+    "Source": "PYCELLE",
+    "Target": "TYWIN",
+    "Weight": 2,
+    "Season": 1
+  },
+  {
+    "Source": "PYCELLE",
+    "Target": "YOREN",
+    "Weight": 2,
+    "Season": 1
+  },
+  {
+    "Source": "RANDYLL",
+    "Target": "SAM",
+    "Weight": 2,
+    "Season": 1
+  },
+  {
+    "Source": "RENLY",
+    "Target": "TOMARD",
+    "Weight": 2,
+    "Season": 1
+  },
+  {
+    "Source": "RHAEGAR",
+    "Target": "ROBERT",
+    "Weight": 2,
+    "Season": 1
+  },
+  {
+    "Source": "RHAEGO",
+    "Target": "VISERYS",
+    "Weight": 2,
+    "Season": 1
+  },
+  {
+    "Source": "RICKARD_KARSTARK",
+    "Target": "ROBB",
+    "Weight": 2,
+    "Season": 1
+  },
+  {
+    "Source": "RICKARD_KARSTARK",
+    "Target": "THEON",
+    "Weight": 2,
+    "Season": 1
+  },
+  {
+    "Source": "ROBB",
+    "Target": "STANNIS",
+    "Weight": 2,
+    "Season": 1
+  },
+  {
+    "Source": "ROBB",
+    "Target": "VARYS",
+    "Weight": 2,
+    "Season": 1
+  },
+  {
+    "Source": "ROBERT",
+    "Target": "ROS",
+    "Weight": 2,
+    "Season": 1
+  },
+  {
+    "Source": "ROBERT",
+    "Target": "TOMMEN",
+    "Weight": 2,
+    "Season": 1
+  },
+  {
+    "Source": "RODRIK",
+    "Target": "TYWIN",
+    "Weight": 2,
+    "Season": 1
+  },
+  {
+    "Source": "SANSA",
+    "Target": "STANNIS",
+    "Weight": 2,
+    "Season": 1
+  },
+  {
+    "Source": "STANNIS",
+    "Target": "TOMARD",
+    "Weight": 2,
+    "Season": 1
+  },
+  {
+    "Source": "THEON",
+    "Target": "WILL",
+    "Weight": 2,
+    "Season": 1
+  },
+  {
+    "Source": "TYRION",
+    "Target": "TYSHA",
+    "Weight": 2,
+    "Season": 1
+  },
+  {
+    "Source": "TYRION",
+    "Target": "VARYS",
+    "Weight": 2,
+    "Season": 1
+  }
+]

@@ -1,127 +1,127 @@
-Id,Label
-ADDAM_MARBRAND,Addam
-AEGON,Aegon
-AERYS,Aerys
-ALLISER_THORNE,Allister
-ARYA,Arya
-ASSASSIN,Assassin
-BAELOR,Baelor
-BALON,Balon
-BARRISTAN,Barristan
-BENJEN,Benjen
-BERIC,Beric
-BORCAS,Borcas
-BOWEN_MARSH,Bowen
-BRAN,Bran
-BRANDON_STARK,Brandon
-BRONN,Bronn
-CATELYN,Catelyn
-CERSEI,Cersei
-COHOLLO,Cohollo
-DAENERYS,Daenerys
-DAREON,Dareon
-DOREAH,Doreah
-DROGO,Drogo
-GALBART_GLOVER,Galbart
-GARED,Gared
-GENDRY,Gendry
-GREATJON_UMBER,Greatjon
-GRENN,Grenn
-HIGH_SEPTON,High Septon
-HODOR,Hodor
-HOSTER,Hoster
-HOT_PIE,Hot Pie
-HOUND,Sandor
-HUGH_OF_THE_VALE,Hugh of the Vale
-ILLYRIO,Illyrio
-ILYN_PAYNE,Ilyn
-IROGENIA,Irogenia
-IRRI,Irri
-JAIME,Jaime
-JANOS,Janos
-JAREMY_RYKKER,Jaremy
-JEOR,Jeor
-JHIQUI,Jhiqui
-JOANNA,Joanna
-JOFFREY,Joffrey
-JON,Jon
-JON_ARRYN,Jon Arryn
-JONOS_BRACKEN,Jonos
-JORAH,Jorah
-JORY_CASSEL,Jory
-JOYEUSE,Joyeuse
-KEVAN,Kevan
-LANCEL,Lancel
-LEO_LEFFORD,Leo
-LITTLE_BIRD,Little Bird
-LITTLEFINGER,Petyr
-LOMMY_GREENHANDS,Lommy
-LORAS,Loras
-LUKE,Luke
-LYANNA,Lyanna
-LYSA,Lysa
-MACE,Mac
-MAESTER_AEMON,Aemon
-MAESTER_LUWIN,Luwin
-MAGO,Mago
-MARILLION,Marillion
-MASHA_HEDDLE,Masha
-MELESSA,Melessa
-MERYN_TRANT,Meryn
-MHAEGEN,Mhaegen
-MIRRI_MAZ_DUUR,Mirri Maz Dur
-MORD,Mord
-MOUNTAIN,Gregor
-MYCAH,Mycah
-MYRCELLA,Myrcella
-NED,Ned
-OLD_NAN,Old Nan
-OSHA,Osha
-OTHELL_YARWYCK,Othell
-OTHOR,Othor
-PYCELLE,Pycelle
-PYP,Pyp
-QOTHO,Qotho
-RAKHARO,Rakharo
-RANDYLL,Randyll
-RAST,Rast
-RENLY,Renly
-RHAEGAR,Rhaegar
-RHAEGO,Rhaego
-RICKARD_KARSTARK,Rickard Karstark
-RICKARD_STARK,Rickard Stark
-RICKON,Rickon
-ROBB,Robb
-ROBERT,Robert
-ROBIN,Robin
-RODRIK,Rodrik
-ROOSE_BOLTON,Roose
-ROS,Ros
-ROYCE,Royce
-RYGER_RIVERS,Ryger
-SAM,Sam
-SANSA,Sansa
-SEPTA_MORDANE,Septa Mordane
-SHAE,Shae
-SHAGGA,Shagga
-STABLE_BOY,Stable Boy
-STANNIS,Stannis
-STEFFON,Steffon
-STEVRON_FREY,Stevron
-SYRIO_FOREL,Syrio
-THEON,Theon
-TOBHO_MOTT,Tobho Mott
-TOMARD,Tomard
-TOMMEN,Tommen
-TYRION,Tyrion
-TYSHA,Tysha
-TYWIN,Tywin
-VARDIS_EGEN,Vardis
-VARLY,Varly
-VARYS,Varys
-VISERYS,Viserys
-WALDER,Walder
-WAYMAR_ROYCE,Waymar
-WILL,Will
-WINE_MERCHANT,Wine Merchant
-YOREN,Yoren
+Id,Label,Img
+ADDAM_MARBRAND,Addam,http://marvel-force-chart.surge.sh/marvel_force_chart_img/top_spiderman.png
+AEGON,Aegon,http://marvel-force-chart.surge.sh/marvel_force_chart_img/top_spiderman.png
+AERYS,Aerys,http://marvel-force-chart.surge.sh/marvel_force_chart_img/top_spiderman.png
+ALLISER_THORNE,Allister,http://marvel-force-chart.surge.sh/marvel_force_chart_img/top_spiderman.png
+ARYA,Arya,http://marvel-force-chart.surge.sh/marvel_force_chart_img/top_spiderman.png
+ASSASSIN,Assassin,http://marvel-force-chart.surge.sh/marvel_force_chart_img/top_spiderman.png
+BAELOR,Baelor,http://marvel-force-chart.surge.sh/marvel_force_chart_img/top_spiderman.png
+BALON,Balon,http://marvel-force-chart.surge.sh/marvel_force_chart_img/top_spiderman.png
+BARRISTAN,Barristan,http://marvel-force-chart.surge.sh/marvel_force_chart_img/top_spiderman.png
+BENJEN,Benjen,http://marvel-force-chart.surge.sh/marvel_force_chart_img/top_spiderman.png
+BERIC,Beric,http://marvel-force-chart.surge.sh/marvel_force_chart_img/top_spiderman.png
+BORCAS,Borcas,http://marvel-force-chart.surge.sh/marvel_force_chart_img/top_spiderman.png
+BOWEN_MARSH,Bowen,http://marvel-force-chart.surge.sh/marvel_force_chart_img/top_spiderman.png
+BRAN,Bran,http://marvel-force-chart.surge.sh/marvel_force_chart_img/top_spiderman.png
+BRANDON_STARK,Brandon,http://marvel-force-chart.surge.sh/marvel_force_chart_img/top_spiderman.png
+BRONN,Bronn,http://marvel-force-chart.surge.sh/marvel_force_chart_img/top_spiderman.png
+CATELYN,Catelyn,http://marvel-force-chart.surge.sh/marvel_force_chart_img/top_spiderman.png
+CERSEI,Cersei,http://marvel-force-chart.surge.sh/marvel_force_chart_img/top_spiderman.png
+COHOLLO,Cohollo,http://marvel-force-chart.surge.sh/marvel_force_chart_img/top_spiderman.png
+DAENERYS,Daenerys,http://marvel-force-chart.surge.sh/marvel_force_chart_img/top_spiderman.png
+DAREON,Dareon,http://marvel-force-chart.surge.sh/marvel_force_chart_img/top_spiderman.png
+DOREAH,Doreah,http://marvel-force-chart.surge.sh/marvel_force_chart_img/top_spiderman.png
+DROGO,Drogo,http://marvel-force-chart.surge.sh/marvel_force_chart_img/top_spiderman.png
+GALBART_GLOVER,Galbart,http://marvel-force-chart.surge.sh/marvel_force_chart_img/top_spiderman.png
+GARED,Gared,http://marvel-force-chart.surge.sh/marvel_force_chart_img/top_spiderman.png
+GENDRY,Gendry,http://marvel-force-chart.surge.sh/marvel_force_chart_img/top_spiderman.png
+GREATJON_UMBER,Greatjon,http://marvel-force-chart.surge.sh/marvel_force_chart_img/top_spiderman.png
+GRENN,Grenn,http://marvel-force-chart.surge.sh/marvel_force_chart_img/top_spiderman.png
+HIGH_SEPTON,High Septon,http://marvel-force-chart.surge.sh/marvel_force_chart_img/top_spiderman.png
+HODOR,Hodor,http://marvel-force-chart.surge.sh/marvel_force_chart_img/top_spiderman.png
+HOSTER,Hoster,http://marvel-force-chart.surge.sh/marvel_force_chart_img/top_spiderman.png
+HOT_PIE,Hot Pie,http://marvel-force-chart.surge.sh/marvel_force_chart_img/top_spiderman.png
+HOUND,Sandor,http://marvel-force-chart.surge.sh/marvel_force_chart_img/top_spiderman.png
+HUGH_OF_THE_VALE,Hugh of the Vale,http://marvel-force-chart.surge.sh/marvel_force_chart_img/top_spiderman.png
+ILLYRIO,Illyrio,http://marvel-force-chart.surge.sh/marvel_force_chart_img/top_spiderman.png
+ILYN_PAYNE,Ilyn,http://marvel-force-chart.surge.sh/marvel_force_chart_img/top_spiderman.png
+IROGENIA,Irogenia,http://marvel-force-chart.surge.sh/marvel_force_chart_img/top_spiderman.png
+IRRI,Irri,http://marvel-force-chart.surge.sh/marvel_force_chart_img/top_spiderman.png
+JAIME,Jaime,http://marvel-force-chart.surge.sh/marvel_force_chart_img/top_spiderman.png
+JANOS,Janos,http://marvel-force-chart.surge.sh/marvel_force_chart_img/top_spiderman.png
+JAREMY_RYKKER,Jaremy,http://marvel-force-chart.surge.sh/marvel_force_chart_img/top_spiderman.png
+JEOR,Jeor,http://marvel-force-chart.surge.sh/marvel_force_chart_img/top_spiderman.png
+JHIQUI,Jhiqui,http://marvel-force-chart.surge.sh/marvel_force_chart_img/top_spiderman.png
+JOANNA,Joanna,http://marvel-force-chart.surge.sh/marvel_force_chart_img/top_spiderman.png
+JOFFREY,Joffrey,http://marvel-force-chart.surge.sh/marvel_force_chart_img/top_spiderman.png
+JON,Jon,http://marvel-force-chart.surge.sh/marvel_force_chart_img/top_spiderman.png
+JON_ARRYN,Jon Arryn,http://marvel-force-chart.surge.sh/marvel_force_chart_img/top_spiderman.png
+JONOS_BRACKEN,Jonos,http://marvel-force-chart.surge.sh/marvel_force_chart_img/top_spiderman.png
+JORAH,Jorah,http://marvel-force-chart.surge.sh/marvel_force_chart_img/top_spiderman.png
+JORY_CASSEL,Jory,http://marvel-force-chart.surge.sh/marvel_force_chart_img/top_spiderman.png
+JOYEUSE,Joyeuse,http://marvel-force-chart.surge.sh/marvel_force_chart_img/top_spiderman.png
+KEVAN,Kevan,http://marvel-force-chart.surge.sh/marvel_force_chart_img/top_spiderman.png
+LANCEL,Lancel,http://marvel-force-chart.surge.sh/marvel_force_chart_img/top_spiderman.png
+LEO_LEFFORD,Leo,http://marvel-force-chart.surge.sh/marvel_force_chart_img/top_spiderman.png
+LITTLE_BIRD,Little Bird,http://marvel-force-chart.surge.sh/marvel_force_chart_img/top_spiderman.png
+LITTLEFINGER,Petyr,http://marvel-force-chart.surge.sh/marvel_force_chart_img/top_spiderman.png
+LOMMY_GREENHANDS,Lommy,http://marvel-force-chart.surge.sh/marvel_force_chart_img/top_spiderman.png
+LORAS,Loras,http://marvel-force-chart.surge.sh/marvel_force_chart_img/top_spiderman.png
+LUKE,Luke,http://marvel-force-chart.surge.sh/marvel_force_chart_img/top_spiderman.png
+LYANNA,Lyanna,http://marvel-force-chart.surge.sh/marvel_force_chart_img/top_spiderman.png
+LYSA,Lysa,http://marvel-force-chart.surge.sh/marvel_force_chart_img/top_spiderman.png
+MACE,Mac,http://marvel-force-chart.surge.sh/marvel_force_chart_img/top_spiderman.png
+MAESTER_AEMON,Aemon,http://marvel-force-chart.surge.sh/marvel_force_chart_img/top_spiderman.png
+MAESTER_LUWIN,Luwin,http://marvel-force-chart.surge.sh/marvel_force_chart_img/top_spiderman.png
+MAGO,Mago,http://marvel-force-chart.surge.sh/marvel_force_chart_img/top_spiderman.png
+MARILLION,Marillion,http://marvel-force-chart.surge.sh/marvel_force_chart_img/top_spiderman.png
+MASHA_HEDDLE,Masha,http://marvel-force-chart.surge.sh/marvel_force_chart_img/top_spiderman.png
+MELESSA,Melessa,http://marvel-force-chart.surge.sh/marvel_force_chart_img/top_spiderman.png
+MERYN_TRANT,Meryn,http://marvel-force-chart.surge.sh/marvel_force_chart_img/top_spiderman.png
+MHAEGEN,Mhaegen,http://marvel-force-chart.surge.sh/marvel_force_chart_img/top_spiderman.png
+MIRRI_MAZ_DUUR,Mirri Maz Dur,http://marvel-force-chart.surge.sh/marvel_force_chart_img/top_spiderman.png
+MORD,Mord,http://marvel-force-chart.surge.sh/marvel_force_chart_img/top_spiderman.png
+MOUNTAIN,Gregor,http://marvel-force-chart.surge.sh/marvel_force_chart_img/top_spiderman.png
+MYCAH,Mycah,http://marvel-force-chart.surge.sh/marvel_force_chart_img/top_spiderman.png
+MYRCELLA,Myrcella,http://marvel-force-chart.surge.sh/marvel_force_chart_img/top_spiderman.png
+NED,Ned,http://marvel-force-chart.surge.sh/marvel_force_chart_img/top_spiderman.png
+OLD_NAN,Old Nan,http://marvel-force-chart.surge.sh/marvel_force_chart_img/top_spiderman.png
+OSHA,Osha,http://marvel-force-chart.surge.sh/marvel_force_chart_img/top_spiderman.png
+OTHELL_YARWYCK,Othell,http://marvel-force-chart.surge.sh/marvel_force_chart_img/top_spiderman.png
+OTHOR,Othor,http://marvel-force-chart.surge.sh/marvel_force_chart_img/top_spiderman.png
+PYCELLE,Pycelle,http://marvel-force-chart.surge.sh/marvel_force_chart_img/top_spiderman.png
+PYP,Pyp,http://marvel-force-chart.surge.sh/marvel_force_chart_img/top_spiderman.png
+QOTHO,Qotho,http://marvel-force-chart.surge.sh/marvel_force_chart_img/top_spiderman.png
+RAKHARO,Rakharo,http://marvel-force-chart.surge.sh/marvel_force_chart_img/top_spiderman.png
+RANDYLL,Randyll,http://marvel-force-chart.surge.sh/marvel_force_chart_img/top_spiderman.png
+RAST,Rast,http://marvel-force-chart.surge.sh/marvel_force_chart_img/top_spiderman.png
+RENLY,Renly,http://marvel-force-chart.surge.sh/marvel_force_chart_img/top_spiderman.png
+RHAEGAR,Rhaegar,http://marvel-force-chart.surge.sh/marvel_force_chart_img/top_spiderman.png
+RHAEGO,Rhaego,http://marvel-force-chart.surge.sh/marvel_force_chart_img/top_spiderman.png
+RICKARD_KARSTARK,Rickard Karstark,http://marvel-force-chart.surge.sh/marvel_force_chart_img/top_spiderman.png
+RICKARD_STARK,Rickard Stark,http://marvel-force-chart.surge.sh/marvel_force_chart_img/top_spiderman.png
+RICKON,Rickon,http://marvel-force-chart.surge.sh/marvel_force_chart_img/top_spiderman.png
+ROBB,Robb,http://marvel-force-chart.surge.sh/marvel_force_chart_img/top_spiderman.png
+ROBERT,Robert,http://marvel-force-chart.surge.sh/marvel_force_chart_img/top_spiderman.png
+ROBIN,Robin,http://marvel-force-chart.surge.sh/marvel_force_chart_img/top_spiderman.png
+RODRIK,Rodrik,http://marvel-force-chart.surge.sh/marvel_force_chart_img/top_spiderman.png
+ROOSE_BOLTON,Roose,http://marvel-force-chart.surge.sh/marvel_force_chart_img/top_spiderman.png
+ROS,Ros,http://marvel-force-chart.surge.sh/marvel_force_chart_img/top_spiderman.png
+ROYCE,Royce,http://marvel-force-chart.surge.sh/marvel_force_chart_img/top_spiderman.png
+RYGER_RIVERS,Ryger,http://marvel-force-chart.surge.sh/marvel_force_chart_img/top_spiderman.png
+SAM,Sam,http://marvel-force-chart.surge.sh/marvel_force_chart_img/top_spiderman.png
+SANSA,Sansa,http://marvel-force-chart.surge.sh/marvel_force_chart_img/top_spiderman.png
+SEPTA_MORDANE,Septa Mordane,http://marvel-force-chart.surge.sh/marvel_force_chart_img/top_spiderman.png
+SHAE,Shae,http://marvel-force-chart.surge.sh/marvel_force_chart_img/top_spiderman.png
+SHAGGA,Shagga,http://marvel-force-chart.surge.sh/marvel_force_chart_img/top_spiderman.png
+STABLE_BOY,Stable Boy,http://marvel-force-chart.surge.sh/marvel_force_chart_img/top_spiderman.png
+STANNIS,Stannis,http://marvel-force-chart.surge.sh/marvel_force_chart_img/top_spiderman.png
+STEFFON,Steffon,http://marvel-force-chart.surge.sh/marvel_force_chart_img/top_spiderman.png
+STEVRON_FREY,Stevron,http://marvel-force-chart.surge.sh/marvel_force_chart_img/top_spiderman.png
+SYRIO_FOREL,Syrio,http://marvel-force-chart.surge.sh/marvel_force_chart_img/top_spiderman.png
+THEON,Theon,http://marvel-force-chart.surge.sh/marvel_force_chart_img/top_spiderman.png
+TOBHO_MOTT,Tobho Mott,http://marvel-force-chart.surge.sh/marvel_force_chart_img/top_spiderman.png
+TOMARD,Tomard,http://marvel-force-chart.surge.sh/marvel_force_chart_img/top_spiderman.png
+TOMMEN,Tommen,http://marvel-force-chart.surge.sh/marvel_force_chart_img/top_spiderman.png
+TYRION,Tyrion,http://marvel-force-chart.surge.sh/marvel_force_chart_img/top_spiderman.png
+TYSHA,Tysha,http://marvel-force-chart.surge.sh/marvel_force_chart_img/top_spiderman.png
+TYWIN,Tywin,http://marvel-force-chart.surge.sh/marvel_force_chart_img/top_spiderman.png
+VARDIS_EGEN,Vardis,http://marvel-force-chart.surge.sh/marvel_force_chart_img/top_spiderman.png
+VARLY,Varly,http://marvel-force-chart.surge.sh/marvel_force_chart_img/top_spiderman.png
+VARYS,Varys,http://marvel-force-chart.surge.sh/marvel_force_chart_img/top_spiderman.png
+VISERYS,Viserys,http://marvel-force-chart.surge.sh/marvel_force_chart_img/top_spiderman.png
+WALDER,Walder,http://marvel-force-chart.surge.sh/marvel_force_chart_img/top_spiderman.png
+WAYMAR_ROYCE,Waymar,http://marvel-force-chart.surge.sh/marvel_force_chart_img/top_spiderman.png
+WILL,Will,http://marvel-force-chart.surge.sh/marvel_force_chart_img/top_spiderman.png
+WINE_MERCHANT,Wine Merchant,http://marvel-force-chart.surge.sh/marvel_force_chart_img/top_spiderman.png
+YOREN,Yoren,http://marvel-force-chart.surge.sh/marvel_force_chart_img/top_spiderman.png
