@@ -29,7 +29,7 @@
           fillText = '#333',
           strokeLink = d3.rgb(150, 150, 150, 0.6),
           strokeLinkHover = d3.rgb(50, 50, 50, 1),
-          minRadius = 5,
+          minRadius = 15,
           radius = function (node) {
             return minRadius + node.weight * 0.7;
           };
@@ -162,7 +162,8 @@
               d3.selectAll('.nodes text')
                 .filter((d, i) => d.weight < 17)
                 .transition()
-                .attr('fill-opacity', 0);
+                //fill-opacity allows all nodes to have text
+                .attr('fill-opacity', 1);
 
               d3.selectAll(neighbors.nodes)
                 .select('circle')
@@ -222,7 +223,8 @@
               .attr('font-size', d => d.weight * 0.7)
               .attr('text-anchor', 'middle')
               .filter((d, i) => d.weight < 17)
-              .attr('fill-opacity', 0)
+              //fill-opacity allows all nodes to have text
+              .attr('fill-opacity', 1)
               .attr('font-size', 15);
 
             simulation.on('tick', () => {
