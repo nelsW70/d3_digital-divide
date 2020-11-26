@@ -29,7 +29,7 @@
           fillText = '#333',
           strokeLink = d3.rgb(150, 150, 150, 0.6),
           strokeLinkHover = d3.rgb(50, 50, 50, 1),
-          minRadius = 30,
+          minRadius = 40,
           radius = function (node) {
             return minRadius + node.weight * 0.7;
           };
@@ -62,7 +62,9 @@
               )
               .force('center', d3.forceCenter(width / 3, height / 2))
               .force('x', d3.forceX())
-              .force('y', d3.forceY());
+              .force('y', d3.forceY())
+              .alphaTarget(0.2)
+              .restart();
 
             function zoomed() {
               let scale = d3.event.transform.k;
@@ -74,7 +76,7 @@
 
             const dragNode = function (simulation) {
               function dragstarted(d) {
-                if (!d3.event.active) simulation.alphaTarget(0.3).restart();
+                if (!d3.event.active) simulation.alphaTarget(0.2).restart();
                 d.fx = d.x;
                 d.fy = d.y;
               }
@@ -85,7 +87,7 @@
               }
 
               function dragended(d) {
-                if (!d3.event.active) simulation.alphaTarget(0);
+                if (!d3.event.active) simulation.alphaTarget(0.2).restart();
                 d.fx = null;
                 d.fy = null;
               }
@@ -105,7 +107,7 @@
               );
 
               // Creates an array with all the node id that has interacted with the selected node
-              // The prepend hashtag will help us to select in CSS th nodes
+              // The prepend hashtag helps to select in CSS the nodes
               const neighbors_nodes = neighbors.map(function (link) {
                 if (link.source.id === id) {
                   return '#' + link.target.id;
@@ -404,6 +406,3 @@
     </script>
   </body>
 </html>
-
-<!-- perpetual motion
-simulation.alphaTarget(0.7).restart(); -->
