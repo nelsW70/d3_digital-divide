@@ -29,7 +29,7 @@
           fillText = '#333',
           strokeLink = d3.rgb(150, 150, 150, 0.6),
           strokeLinkHover = d3.rgb(50, 50, 50, 1),
-          minRadius = 5,
+          minRadius = 30,
           radius = function (node) {
             return minRadius + node.weight * 0.7;
           };
@@ -54,11 +54,11 @@
                 d3
                   .forceLink(data.edges)
                   .id(d => d.id)
-                  .distance(50)
+                  .distance(250)
               )
               .force(
                 'charge',
-                d3.forceManyBody().strength(d => -radius(d) * 30)
+                d3.forceManyBody().strength(d => -radius(d) * 150)
               )
               .force('center', d3.forceCenter(width / 3, height / 2))
               .force('x', d3.forceX())
@@ -336,6 +336,7 @@
         };
       };
 
+      // GOT Data
       // const datasets = [
       //   ['data/got-s1-nodes.csv', 'data/got-s1-edges.csv'],
       //   ['data/got-s2-nodes.csv', 'data/got-s2-edges.csv'],
@@ -346,6 +347,7 @@
       //   ['data/got-s7-nodes.csv', 'data/got-s7-edges.csv']
       // ];
 
+      // Digital Divide data
       const datasets = [
         ['dd-data/dd-all-nodes.csv', 'dd-data/dd-all-edges.csv']
       ];
