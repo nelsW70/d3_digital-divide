@@ -63,7 +63,7 @@
               .force('center', d3.forceCenter(width / 3, height / 2))
               .force('x', d3.forceX())
               .force('y', d3.forceY())
-              .alphaTarget(0.2)
+              .alphaTarget(0.15)
               .restart();
 
             function zoomed() {
@@ -76,7 +76,7 @@
 
             const dragNode = function (simulation) {
               function dragstarted(d) {
-                if (!d3.event.active) simulation.alphaTarget(0.2).restart();
+                if (!d3.event.active) simulation.alphaTarget(0.15).restart();
                 d.fx = d.x;
                 d.fy = d.y;
               }
@@ -87,7 +87,7 @@
               }
 
               function dragended(d) {
-                if (!d3.event.active) simulation.alphaTarget(0.2).restart();
+                if (!d3.event.active) simulation.alphaTarget(0.15).restart();
                 d.fx = null;
                 d.fy = null;
               }
@@ -227,7 +227,7 @@
               .filter((d, i) => d.weight < 17)
               //fill-opacity allows all nodes to have text
               .attr('fill-opacity', 1)
-              .attr('font-size', 15);
+              .attr('font-size', 22);
 
             simulation.on('tick', () => {
               links
