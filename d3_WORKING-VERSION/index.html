@@ -9,9 +9,9 @@
   </head>
   <body>
     <div class="header">
-      <a class="button">Season 1</a>
-      <a class="button">Season 2</a>
-      <a class="button">Season 3</a>
+      <a class="button">All</a>
+      <a class="button">Travis</a>
+      <a class="button">Luna</a>
       <a class="button">Season 4</a>
       <a class="button">Season 5</a>
       <a class="button">Season 6</a>
@@ -27,12 +27,12 @@
           fillNodeHover = '#E47F74',
           fillNeighbors = '#f0c808',
           fillText = '#333',
-          strokeLink = d3.rgb(150, 150, 150, 0.05),
+          strokeLink = d3.rgb(150, 150, 150, 0.075),
           // strokeLink = d3.rgb(150, 150, 150, 0),
           strokeLinkHover = d3.rgb(50, 50, 50, 1),
-          minRadius = 40,
+          minRadius = 30,
           radius = function (node) {
-            return minRadius + node.weight * 0.7;
+            return minRadius + node.weight * 2.75;
           };
 
         function chart(selection) {
@@ -228,7 +228,7 @@
               .attr('fill', fillText)
               .attr('fill-opacity', 1)
               .attr('font-size', d => d.weight * 0.7)
-              .attr('text-anchor', 'middle')
+              .attr('text-anchor', 'start')
               .filter((d, i) => d.weight < 17)
               //fill-opacity allows all nodes to have text
               .attr('fill-opacity', 1)
@@ -356,7 +356,9 @@
 
       // Digital Divide data
       const datasets = [
-        ['dd-data/dd-all-nodes.csv', 'dd-data/dd-all-edges.csv']
+        ['dd-data/dd-all-nodes.csv', 'dd-data/dd-all-edges.csv'],
+        ['dd-data/dd-travis-nodes.csv', 'dd-data/dd-travis-edges.csv'],
+        ['dd-data/dd-luna-nodes.csv', 'dd-data/dd-luna-edges.csv']
       ];
 
       function getDataFromSeason(i) {
