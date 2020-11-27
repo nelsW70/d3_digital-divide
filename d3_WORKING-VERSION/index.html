@@ -153,6 +153,8 @@
               d3.selectAll(neighbors.links)
                 .transition()
                 .attr('stroke', strokeLinkHover);
+
+              simulation.alphaTarget(0);
             };
 
             const handleMouseOut = function (d, i) {
@@ -176,6 +178,8 @@
               d3.selectAll(neighbors.links)
                 .transition()
                 .attr('stroke', strokeLink);
+
+              simulation.alphaTarget(0.3).restart();
             };
 
             var g = svg.append('g').attr('id', 'force-directed-graph');
